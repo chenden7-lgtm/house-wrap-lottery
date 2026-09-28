@@ -152,21 +152,19 @@ class TurboLottery {
         // Matching case photo from AX Film
         const caseImg = document.getElementById('modal-case-img');
         const caseTitle = document.getElementById('modal-case-title');
-        const caseBox = document.getElementById('modal-case-box');
+        const caseFrame = document.getElementById('modal-case-frame');
+        const noCaseBox = document.getElementById('modal-no-case');
 
         if (item.exampleCase && item.exampleCase.img) {
-            caseBox.style.display = 'block';
-            caseImg.src = item.exampleCase.img;
-            caseTitle.textContent = `實裝範例：${item.exampleCase.car} (${item.exampleCase.color})`;
+            if (caseTitle) caseTitle.textContent = `${item.exampleCase.car} (${item.exampleCase.color})`;
+            if (caseImg) caseImg.src = item.exampleCase.img;
+            if (caseFrame) caseFrame.style.display = 'flex';
+            if (noCaseBox) noCaseBox.style.display = 'none';
         } else {
-            const fallbackCase = (window.AX_CASES || [])[Math.floor(Math.random() * (window.AX_CASES ? window.AX_CASES.length : 1))];
-            if (fallbackCase) {
-                caseBox.style.display = 'block';
-                caseImg.src = fallbackCase.img;
-                caseTitle.textContent = `AX Film 經典施工實裝：${fallbackCase.car} (${fallbackCase.color})`;
-            } else {
-                caseBox.style.display = 'none';
-            }
+            if (caseTitle) caseTitle.textContent = '';
+            if (caseImg) caseImg.src = '';
+            if (caseFrame) caseFrame.style.display = 'none';
+            if (noCaseBox) noCaseBox.style.display = 'flex';
         }
 
         // Update LINE link

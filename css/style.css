@@ -799,6 +799,39 @@ body::before {
     border-radius: var(--radius-sm);
 }
 
+.no-case-placeholder {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg-card-subtle);
+    border: 1.5px dashed var(--border-color);
+    border-radius: var(--radius-sm);
+    padding: 2rem 1.25rem;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+.no-case-icon {
+    font-size: 2.2rem;
+    margin-bottom: 0.4rem;
+    filter: grayscale(0.5);
+}
+
+.no-case-title {
+    font-size: 1.05rem;
+    font-weight: 800;
+    color: var(--text-main);
+    margin-bottom: 0.35rem;
+}
+
+.no-case-desc {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    max-width: 440px;
+    line-height: 1.5;
+}
+
 /* Voucher Code Banner */
 .voucher-ticket-box {
     background: var(--orange-light);
