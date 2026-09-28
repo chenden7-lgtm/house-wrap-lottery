@@ -55,12 +55,10 @@ class CouponManager {
         if (!this.currentPrize) return '#';
         const msg = encodeURIComponent(
             `【好室多膜 改色膜抽色 9 折預約】\n` +
-            `您好！我剛剛在好室多膜活動頁面抽到了專屬優惠色：\n` +
+            `您好！我剛剛在好室多膜活動頁面抽中了專屬 9 折顏色：\n` +
             `🎨 抽選顏色：${this.currentPrize.colorName} (${this.currentPrize.englishName})\n` +
             `🔖 色號編號：${this.currentPrize.code} (${this.currentPrize.series})\n` +
-            `🎟️ 優惠憑證碼：${this.couponCode}\n` +
-            `🎁 專屬優惠：享 9 折施工優惠（不得與其他折價活動並用）\n` +
-            `📅 有效期限：${this.expiryDate}\n` +
+            `🎁 專屬優惠：施工指定中獎顏色享 9 折（已附上中獎畫面截圖）\n` +
             `請問可以預約安排到店諮詢/評估施工時間嗎？`
         );
         return `https://line.me/R/msg/text/?${msg}`;

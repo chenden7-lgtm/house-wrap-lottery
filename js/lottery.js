@@ -141,8 +141,10 @@ class TurboLottery {
         document.getElementById('modal-color-series').textContent = `${item.book} ｜ ${item.series}`;
         document.getElementById('modal-color-spec').textContent = item.spec || '1.524 x 16.8米';
         document.getElementById('modal-color-finish').textContent = item.finish;
-        document.getElementById('modal-voucher-code').textContent = voucher.code;
-        document.getElementById('modal-voucher-expiry').textContent = voucher.expiry;
+        const vCode = document.getElementById('modal-voucher-code');
+        if (vCode) vCode.textContent = voucher.code;
+        const vExp = document.getElementById('modal-voucher-expiry');
+        if (vExp) vExp.textContent = voucher.expiry;
 
         const swatch = document.getElementById('modal-color-swatch');
         if (swatch) {
