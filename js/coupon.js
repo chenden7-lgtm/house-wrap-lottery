@@ -98,7 +98,7 @@ class CouponManager {
         // Brand header
         ctx.fillStyle = '#ff6b00';
         ctx.font = 'bold 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
-        ctx.fillText('好室多膜 HOUSE OF WRAPS ｜ 專屬車色狂歡節', 60, 85);
+        ctx.fillText('好室多膜 house wrapper ｜ 專屬車色狂歡節', 60, 85);
 
         ctx.fillStyle = '#0f172a';
         ctx.font = '900 42px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
@@ -170,8 +170,8 @@ class CouponManager {
         ctx.fillStyle = '#64748b';
         ctx.font = '15px sans-serif';
         ctx.fillText(`※ 條款須知：限指定抽選之顏色施工享有9折優惠，不得與其他折價促銷活動並用。`, 60, 465);
-        ctx.fillText(`※ 預約截止日期：${this.expiryDate} 前完成預約評估 ｜ 憑此代碼由好室多膜技師建檔確認`, 60, 498);
-        ctx.fillText(`好室多膜 HOUSE OF WRAPS ｜ AX Film 官方原廠膜料・專業無塵施工`, 60, 530);
+        ctx.fillText(`※ 預約評估：憑此中獎畫面截圖至好室多膜門市出示或透過官方 LINE 預約登記確認`, 60, 498);
+        ctx.fillText(`好室多膜 house wrapper ｜ AX Film 官方原廠膜料・專業無塵施工`, 60, 530);
 
         // Trigger download
         const link = document.createElement('a');
