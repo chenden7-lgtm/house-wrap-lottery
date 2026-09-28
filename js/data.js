@@ -1,4 +1,4 @@
-// Auto-generated AX Film Color & Case Data (100% Traditional Chinese)
+// Auto-generated AX Film + Housewrapper Official Color & Case Data (100% Traditional Chinese)
 window.AX_COLORS = [
   {
     "index": 1,
@@ -83,12 +83,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "高光鏡面 (Ultra Gloss)",
     "exampleCase": {
-      "id": "8270",
+      "id": "ax-8270",
+      "source": "axfilm",
       "car": "賓士 C級",
       "color": "高亮貝殼粉",
       "brand": "Mercedes 賓士",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/3f0823aed1385ca61b3ad014b541fc68.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8270"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8270",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -411,7 +413,16 @@ window.AX_COLORS = [
     "hex": "#0ea5e9",
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "高光鏡面 (Ultra Gloss)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-971",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "迷霧藍",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8157_f1d5563908.jpg",
+      "url": "https://www.housewrapper.com/works/AX-MistyBlue-NMD3",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 30,
@@ -482,12 +493,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8308",
+      "id": "ax-8308",
+      "source": "axfilm",
       "car": "寶馬 M5",
       "color": "克萊因藍",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/ded976cf7a9a27d5018fe91d8670d116.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8308"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8308",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -517,12 +530,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8342",
+      "id": "ax-8342",
+      "source": "axfilm",
       "car": "極氪 MIX",
       "color": "喀納斯青",
       "brand": "Zeekr 極氪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/2cd9d10cafe9c9df9958db0fe4dc869d.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8342"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8342",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -538,12 +553,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "高光鏡面 (Ultra Gloss)",
     "exampleCase": {
-      "id": "7970",
+      "id": "ax-7970",
+      "source": "axfilm",
       "car": "勞斯萊斯 庫裡南",
       "color": "高亮薰衣草",
       "brand": "Rolls-Royce 勞斯萊斯",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20240927/51332f07a7607f50bec28d759afa813b.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=7970"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=7970",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -559,12 +576,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8248",
+      "id": "ax-8248",
+      "source": "axfilm",
       "car": "特斯拉 Model Y",
       "color": "星黛紫",
       "brand": "Tesla 特斯拉",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/ca9c69a4f0553ca8327f7de910bee7ab.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8248"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8248",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -594,12 +613,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8350",
-      "car": "寶馬 3系",
+      "id": "hw-1330",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
       "color": "迷霧灰紫",
-      "brand": "BMW 寶馬",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/68ba435b95222ebb1e47248497860bf4.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8350"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1129_14cdc6ce2a.jpg",
+      "url": "https://www.housewrapper.com/works/28-AX-MistyGrayPurple-NMD3",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -629,12 +650,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8391",
+      "id": "ax-8391",
+      "source": "axfilm",
       "car": "保時捷 Macan",
       "color": "花悅粉+甜菜根紫",
       "brand": "Porsche 保時捷",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250918/4703318234557dc82164a309f2637c08.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8391"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8391",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -748,12 +771,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "高光鏡面 (Ultra Gloss)",
     "exampleCase": {
-      "id": "8297",
+      "id": "ax-8297",
+      "source": "axfilm",
       "car": "特斯拉 Model 3",
       "color": "高亮火山灰",
       "brand": "Tesla 特斯拉",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/85bb828af7c7bcd5a7a90c717ab9fbe4.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8297"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8297",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -769,12 +794,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8364",
+      "id": "ax-8364",
+      "source": "axfilm",
       "car": "AITO汽車 AITO問界M5",
       "color": "北極灰",
       "brand": "AITO 問界",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/3dfebf2f5f9a7c83cbfc47920b999b3f.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8364"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8364",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -804,12 +831,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ffffff 0%, #f1f5f9 60%, #cbd5e1 100%)",
     "finish": "高光鏡面 (Ultra Gloss)",
     "exampleCase": {
-      "id": "8365",
+      "id": "ax-8365",
+      "source": "axfilm",
       "car": "賓士 G級",
       "color": "鋼琴白+鋼琴黑",
       "brand": "Mercedes 賓士",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/0c2ffeedd66bb9498abe25fe67bdcaa3.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8365"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8365",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -825,12 +854,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #475569 0%, #1e293b 60%, #0f172a 100%)",
     "finish": "高光鏡面 (Ultra Gloss)",
     "exampleCase": {
-      "id": "8369",
+      "id": "ax-8369",
+      "source": "axfilm",
       "car": "賓士 CLS級",
       "color": "鋼琴黑",
       "brand": "Mercedes 賓士",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/2b1912b5d8826ca3d807b8a8f25c45f0.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8369"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8369",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -846,12 +877,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #475569 0%, #1e293b 60%, #0f172a 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8397",
+      "id": "ax-8397",
+      "source": "axfilm",
       "car": "寶馬 4系",
       "color": "亞光黑",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/bd650bffed611dc520cbc15dbcf26307.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8397"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8397",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -867,12 +900,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #475569 0%, #1e293b 60%, #0f172a 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8392",
-      "car": "勞斯萊斯 幻影",
+      "id": "hw-1654",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
       "color": "磨砂黑",
-      "brand": "Rolls-Royce 勞斯萊斯",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250918/285559a656a7155534d93a2079191847.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8392"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5250_3_019493ab2d.jpg",
+      "url": "https://www.housewrapper.com/works/dwqe2112",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -887,7 +922,16 @@ window.AX_COLORS = [
     "hex": "#dc2626",
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1347",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "羅曼尼紅",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1718_92ef6718c8.jpg",
+      "url": "https://www.housewrapper.com/works/40-AX-RomaneeRed-MDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 58,
@@ -929,7 +973,16 @@ window.AX_COLORS = [
     "hex": "#0ea5e9",
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1564",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model Y",
+      "color": "溢彩藍",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6598_ce2d0a7d29.jpg",
+      "url": "https://www.housewrapper.com/works/AX-RadiantBlue",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 61,
@@ -944,12 +997,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8401",
-      "car": "沃爾沃 S60",
+      "id": "hw-1855",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model 3",
       "color": "卡普里灰紫",
-      "brand": "Volvo 沃爾沃",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/630ad3a57819fa93348e5f8a3de3650a.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8401"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251013_KIM_7893_c793382d3d.jpg",
+      "url": "https://www.housewrapper.com/works/255",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -965,12 +1020,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8317",
+      "id": "ax-8317",
+      "source": "axfilm",
       "car": "寶馬 3系",
       "color": "夢幻粉",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/428bbd370a929093d617fa1f4f04d564.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8317"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8317",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1013,7 +1070,16 @@ window.AX_COLORS = [
     "hex": "#94a3b8",
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1566",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model Y",
+      "color": "夢幻岩石灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6708_16bbc10b77.jpg",
+      "url": "https://www.housewrapper.com/works/AX-MagicTwinColorGrey",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 66,
@@ -1056,12 +1122,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #06b6d4 0%, #8b5cf6 50%, #ec4899 100%)",
     "finish": "鐳射七彩 (Laser Holo)",
     "exampleCase": {
-      "id": "8402",
-      "car": "寶馬 3系",
+      "id": "hw-1430",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model X",
       "color": "鐳射閃白",
-      "brand": "BMW 寶馬",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/3e0adbb43ae122dacb9f74e2c4ca7d8e.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8402"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4116_a004794f85.jpg",
+      "url": "https://www.housewrapper.com/works/88-AX-LaserFlashWhite-MDX",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -1119,12 +1187,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #06b6d4 0%, #8b5cf6 50%, #ec4899 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8402",
-      "car": "寶馬 3系",
+      "id": "hw-1430",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model X",
       "color": "鐳射閃白",
-      "brand": "BMW 寶馬",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/3e0adbb43ae122dacb9f74e2c4ca7d8e.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8402"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4116_a004794f85.jpg",
+      "url": "https://www.housewrapper.com/works/88-AX-LaserFlashWhite-MDX",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -1168,12 +1238,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #06b6d4 0%, #8b5cf6 50%, #ec4899 100%)",
     "finish": "幻彩漸變 (Chameleon)",
     "exampleCase": {
-      "id": "6791",
+      "id": "ax-6791",
+      "source": "axfilm",
       "car": "特斯拉 Model 3",
       "color": "鑽石綠變紫",
       "brand": "Tesla 特斯拉",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231011/d5ccc78d69f74f5483881f1c3f33d1f1.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=6791"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=6791",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1231,12 +1303,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8301",
+      "id": "ax-8301",
+      "source": "axfilm",
       "car": "寶馬 X3",
       "color": "星空灰魅影",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/8d2bd7709ab3dbfae3181ab882d5f494.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8301"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8301",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1252,12 +1326,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #06b6d4 0%, #8b5cf6 50%, #ec4899 100%)",
     "finish": "幻彩漸變 (Chameleon)",
     "exampleCase": {
-      "id": "8254",
+      "id": "ax-8254",
+      "source": "axfilm",
       "car": "賓士 E級",
       "color": "TPU星空黑魅紅",
       "brand": "Mercedes 賓士",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/f002817dd6bc92faa76c9d062c639323.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8254"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8254",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1328,7 +1404,16 @@ window.AX_COLORS = [
     "hex": "#94a3b8",
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-928",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "啞面3D炫彩灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8065_1a87148c37.jpg",
+      "url": "https://www.housewrapper.com/works/AX-Matte3DColorfulGray-MDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 86,
@@ -1385,12 +1470,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8370",
+      "id": "ax-8370",
+      "source": "axfilm",
       "car": "福斯 途觀",
       "color": "液態金屬銀",
       "brand": "Volkswagen 福斯",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/7807c7d09f3ce2110b2a117dd534aae1.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8370"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8370",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1448,12 +1535,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8399",
-      "car": "寶馬 5系",
+      "id": "hw-1291",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
       "color": "液態金屬星瀚銀",
-      "brand": "BMW 寶馬",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/d2b4016ccff0f1ec8d47aa4e3d814ba2.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8399"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0335_08eaa6bf98.jpg",
+      "url": "https://www.housewrapper.com/works/15-AX-LiquidMetalStellarSilver-MDY",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -1469,12 +1558,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8271",
+      "id": "ax-8271",
+      "source": "axfilm",
       "car": "小米SU7",
       "color": "流動星芒銀",
       "brand": "Xiaomi 小米",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/e6b422cb74a94747a992aff31a46d0a2.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8271"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8271",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1504,12 +1595,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8278",
+      "id": "ax-8278",
+      "source": "axfilm",
       "car": "福斯 ID3",
       "color": "液態金屬香檳粉",
       "brand": "Volkswagen 福斯",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/4e04ab2036eddc04401629dbb2bd87b3.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8278"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8278",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1539,12 +1632,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8242",
-      "car": "特斯拉 Model 3",
-      "color": "液態金屬索瑪託藍",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/9e927a8673f526c66c04fb385e4276f9.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8242"
+      "id": "hw-1395",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "液態金屬索瑪托藍",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2223_e406a374b5.jpg",
+      "url": "https://www.housewrapper.com/works/64-AX-LiquidMetalSomatoBlue-MDY",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -1574,12 +1669,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8366",
+      "id": "ax-8366",
+      "source": "axfilm",
       "car": "奧迪 A5",
       "color": "液態金屬威尼斯紫",
       "brand": "Audi 奧迪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/1327f606366d215696a749295f147a03.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8366"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8366",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1637,12 +1734,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8372",
-      "car": "極氪 001",
-      "color": "液態金屬鎢鋼+拉花",
-      "brand": "Zeekr 極氪",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/a61771885abae046e665c090cc8268b7.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8372"
+      "id": "hw-934",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "液態金屬鎢鋼",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8530_54cf18316c.jpg",
+      "url": "https://www.housewrapper.com/works/AX-LiquidMetalTungstenSteel-MDY",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -1700,12 +1799,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8333",
+      "id": "ax-8333",
+      "source": "axfilm",
       "car": "本田 思域",
       "color": "液態金屬瑪瑙灰",
-      "brand": "其他",
+      "brand": "AX 原廠案例",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/b2d1dc2ab79ec5771d89cf3d7178248b.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8333"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8333",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1720,7 +1821,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1753",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model 3",
+      "color": "深邃灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7192_48e2ce95ff.jpg",
+      "url": "https://www.housewrapper.com/works/axgpnjo4cj",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 23,
@@ -1749,12 +1859,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8371",
-      "car": "騰勢 D9",
+      "id": "hw-1848",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
       "color": "GT銀",
-      "brand": "其他",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/90035dfc79ac85e3076091aa82adb0dc.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8371"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251125_KIM_8555_1b02215db6.jpg",
+      "url": "https://www.housewrapper.com/works/axgtup",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -1770,12 +1882,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8313",
+      "id": "ax-8313",
+      "source": "axfilm",
       "car": "凱迪拉克 CT4",
       "color": "亞液態金屬銀",
-      "brand": "其他",
+      "brand": "AX 原廠案例",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250726/53bf69baade18425b1bf9dc17ef7f53e.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8313"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8313",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1819,12 +1933,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8393",
+      "id": "ax-8393",
+      "source": "axfilm",
       "car": "賓士 C級",
       "color": "TPU亞力山大銀",
       "brand": "Mercedes 賓士",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250918/dd2c08f6fb069f14358b07203c502904.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8393"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8393",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -1853,7 +1969,16 @@ window.AX_COLORS = [
     "hex": "#f472b6",
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1821",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "洛麗塔粉",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3883_c7a0a82941.jpg",
+      "url": "https://www.housewrapper.com/works/76-AX-LolitaPink-NMD3",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 31,
@@ -2007,7 +2132,16 @@ window.AX_COLORS = [
     "hex": "#10b981",
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-941",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model X",
+      "color": "神秘綠",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1613_e50d77b66d.jpg",
+      "url": "https://www.housewrapper.com/works/AX-MysteriousGreen-MDX",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 42,
@@ -2035,7 +2169,16 @@ window.AX_COLORS = [
     "hex": "#0ea5e9",
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-943",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "穆傑羅藍",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6452_768aafa2de.jpg",
+      "url": "https://www.housewrapper.com/works/AX-MugelloBlue-NMD3",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 44,
@@ -2078,12 +2221,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8293",
+      "id": "ax-8293",
+      "source": "axfilm",
       "car": "極氪 001",
       "color": "超亞黑幻紫",
       "brand": "Zeekr 極氪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/56341275a0a281fb613218a30d8fceed.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8293"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8293",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -2099,12 +2244,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8248",
+      "id": "ax-8248",
+      "source": "axfilm",
       "car": "特斯拉 Model Y",
       "color": "星黛紫",
       "brand": "Tesla 特斯拉",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/ca9c69a4f0553ca8327f7de910bee7ab.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8248"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8248",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -2120,12 +2267,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fed7aa 0%, #f97316 60%, #c2410c 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8340",
+      "id": "ax-8340",
+      "source": "axfilm",
       "car": "寶馬 4系",
       "color": "超亞火焰橙",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/599ee8a12c7c67d74aa9249a9a1c9eea.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8340"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8340",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -2154,7 +2303,16 @@ window.AX_COLORS = [
     "hex": "#94a3b8",
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1431",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "遠山灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1556_2_64f7c4339e.jpg",
+      "url": "https://www.housewrapper.com/works/AX-UltraMatteDistantMountainGray-MDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 51,
@@ -2238,7 +2396,16 @@ window.AX_COLORS = [
     "hex": "#94a3b8",
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1753",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model 3",
+      "color": "深邃灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7192_48e2ce95ff.jpg",
+      "url": "https://www.housewrapper.com/works/axgpnjo4cj",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 57,
@@ -2267,12 +2434,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8326",
+      "id": "ax-8326",
+      "source": "axfilm",
       "car": "特斯拉 Model Y煥新版",
       "color": "超亞夢幻火山灰",
       "brand": "Tesla 特斯拉",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/b021cf0e0c3c3f529add09683d807937.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8326"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8326",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -2330,12 +2499,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #475569 0%, #1e293b 60%, #0f172a 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8293",
+      "id": "ax-8293",
+      "source": "axfilm",
       "car": "極氪 001",
       "color": "超亞黑幻紫",
       "brand": "Zeekr 極氪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/56341275a0a281fb613218a30d8fceed.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8293"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8293",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -2421,12 +2592,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8291",
-      "car": "阿維塔06",
+      "id": "hw-1785",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
       "color": "電光金屬銀",
-      "brand": "其他",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/9f35d0f0f683a52746e0af8075e8dc88.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8291"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5889_0521d95b2d.jpg",
+      "url": "https://www.housewrapper.com/works/2u04jewrwef",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -2539,7 +2712,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1551",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model Y",
+      "color": "電光金屬戰鬥灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6766_3f49168837.jpg",
+      "url": "https://www.housewrapper.com/works/AX-PearlMetalCombatAsh",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 77,
@@ -2553,7 +2735,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-981",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "電光金屬鈦銀灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9478_64bcc5ce1f.jpg",
+      "url": "https://www.housewrapper.com/works/AX-PearlMetallicTitaniumSliver-MDY2",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 78,
@@ -2581,7 +2772,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1367",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "電光金屬深空灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1912_5ed4a49a51.jpg",
+      "url": "https://www.housewrapper.com/works/51-AX-PearlMetallicDeepSpaceGray-MDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 80,
@@ -2595,7 +2795,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1562",
+      "source": "housewrapper",
+      "car": "BMW X5",
+      "color": "電光金屬黑",
+      "brand": "好室多膜 BMW",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6669_c3450abdf1.jpg",
+      "url": "https://www.housewrapper.com/works/AX-PearlMetalBlack",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 81,
@@ -2609,7 +2818,16 @@ window.AX_COLORS = [
     "hex": "#f8fafc",
     "gradient": "linear-gradient(135deg, #ffffff 0%, #f1f5f9 60%, #cbd5e1 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1418",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "陶瓷白",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3466_e329437541.jpg",
+      "url": "https://www.housewrapper.com/works/75-AX-CeramicWhite-NMD3",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 82,
@@ -2637,7 +2855,16 @@ window.AX_COLORS = [
     "hex": "#94a3b8",
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1468",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model Y",
+      "color": "綢緞銀",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6107_9d6836e478.jpg",
+      "url": "https://www.housewrapper.com/works/155-AX-SatinSilver-NMDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 84,
@@ -2736,12 +2963,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8413",
-      "car": "領克09",
+      "id": "hw-1365",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
       "color": "冰川藍",
-      "brand": "Lynk & Co 領克",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/attach/2025/09/a615d202509281507583135.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8413"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2034_54426319df.jpg",
+      "url": "https://www.housewrapper.com/works/50-AX-GlacierBlue-MDY",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -2757,12 +2986,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8290",
-      "car": "路虎 衛士",
+      "id": "hw-1263",
+      "source": "housewrapper",
+      "car": "AUDI",
       "color": "綢緞軍綠",
-      "brand": "Land Rover 路虎",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/95d65873a7f921e47a419d9154e978bf.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8290"
+      "brand": "好室多膜 奧迪",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9925_d29ff93be9.jpg",
+      "url": "https://www.housewrapper.com/works/1-AX-SatinArmyGreen-RS6Avant",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -2778,12 +3009,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #475569 0%, #1e293b 60%, #0f172a 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8330",
+      "id": "ax-8330",
+      "source": "axfilm",
       "car": "福斯 途銳",
       "color": "綢緞黑",
       "brand": "Volkswagen 福斯",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/8b34ec7cf146aa86fd78735c8aa50956.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8330"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8330",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -2813,12 +3046,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8370",
-      "car": "福斯 途觀",
-      "color": "液態金屬銀",
-      "brand": "Volkswagen 福斯",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/7807c7d09f3ce2110b2a117dd534aae1.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8370"
+      "id": "hw-1339",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "啞液態金屬銀",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1338_9ad740c2ca.jpg",
+      "url": "https://www.housewrapper.com/works/34-AX-MatteLiquidMetalSilver-NMD3",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -2876,12 +3111,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8372",
-      "car": "極氪 001",
-      "color": "液態金屬鎢鋼+拉花",
-      "brand": "Zeekr 極氪",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/a61771885abae046e665c090cc8268b7.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8372"
+      "id": "hw-1621",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model Y",
+      "color": "啞面電鍍金屬鎢鋼",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251025_KIM_8174_2aca7cd47e.jpg",
+      "url": "https://www.housewrapper.com/works/workjed",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -2910,7 +3147,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1780",
+      "source": "housewrapper",
+      "car": "MAZDA",
+      "color": "啞面電鍍金屬黑",
+      "brand": "好室多膜 門市實作",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5304_3_f5ab5c648d.jpg",
+      "url": "https://www.housewrapper.com/works/ADASDAEQEW",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 101,
@@ -2967,12 +3213,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8368",
+      "id": "ax-8368",
+      "source": "axfilm",
       "car": "WEY 坦克300",
       "color": "亞面電鍍金屬銀",
-      "brand": "其他",
+      "brand": "AX 原廠案例",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/39e4f909f28d64d103176a011dde0453.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8368"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8368",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3086,12 +3334,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8277",
+      "id": "ax-8277",
+      "source": "axfilm",
       "car": "路虎 攬勝",
       "color": "鑽石白金",
       "brand": "Land Rover 路虎",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/bea30887e832fcf88b6792328da5384b.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8277"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8277",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3135,12 +3385,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
     "exampleCase": {
-      "id": "8277",
+      "id": "ax-8277",
+      "source": "axfilm",
       "car": "路虎 攬勝",
       "color": "鑽石白金",
       "brand": "Land Rover 路虎",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/bea30887e832fcf88b6792328da5384b.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8277"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8277",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3170,12 +3422,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8309",
+      "id": "ax-8309",
+      "source": "axfilm",
       "car": "特斯拉 Model 3 煥新版",
       "color": "TPU靈動粉",
       "brand": "Tesla 特斯拉",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/4bccb64c61c6efc62fd6204e07e90e24.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8309"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8309",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3275,12 +3529,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8335",
+      "id": "ax-8335",
+      "source": "axfilm",
       "car": "賓士 E級",
       "color": "迷迭香紫",
       "brand": "Mercedes 賓士",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/65af6288bd601649f07626e931c21053.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8335"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8335",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3324,12 +3580,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fed7aa 0%, #f97316 60%, #c2410c 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "6971",
+      "id": "ax-6971",
+      "source": "axfilm",
       "car": "奧迪 RS 5",
       "color": "競速時光橙",
       "brand": "Audi 奧迪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231104/9f1541c1bc60abd743373e8465b69d58.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=6971"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=6971",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3345,12 +3603,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fed7aa 0%, #f97316 60%, #c2410c 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8050",
+      "id": "ax-8050",
+      "source": "axfilm",
       "car": "福特 野馬",
       "color": "競速橙",
       "brand": "Ford 福特",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20241128/a52d356ff1856ab31435f7b985171af8.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8050"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8050",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3366,12 +3626,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8384",
+      "id": "ax-8384",
+      "source": "axfilm",
       "car": "奧迪 A6",
       "color": "派卡德粉",
       "brand": "Audi 奧迪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/1c72111058cfa3975f966a43df37cca1.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8384"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8384",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3387,12 +3649,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #94a3b8 0%, #64748b 60%, #334155 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8387",
+      "id": "ax-8387",
+      "source": "axfilm",
       "car": "保時捷 Panamera",
       "color": "月光寶石",
       "brand": "Porsche 保時捷",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/f62b1ec195cf090978fe2499ac2e1ad0.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8387"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8387",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3422,12 +3686,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8362",
+      "id": "ax-8362",
+      "source": "axfilm",
       "car": "保時捷 Macan",
       "color": "TPU冰莓粉",
       "brand": "Porsche 保時捷",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/4f416398ca6037167d3365c6ea15d43e.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8362"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8362",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3457,12 +3723,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8307",
+      "id": "ax-8307",
+      "source": "axfilm",
       "car": "寶馬 5系",
       "color": "星光寶石紅",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/5415c5ed40c623f12a91b9ae4311fe9d.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8307"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8307",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3506,12 +3774,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8256",
+      "id": "ax-8256",
+      "source": "axfilm",
       "car": "賓士 G63",
       "color": "訊號黃",
       "brand": "Mercedes 賓士",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250611/88eba735222a7a1cf119ed789aabaa2f.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8256"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8256",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3653,12 +3923,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8235",
+      "id": "ax-8235",
+      "source": "axfilm",
       "car": "賓利 歐陸",
       "color": "TPU曼巴綠",
       "brand": "Bentley 賓利",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250429/3b3fe48af8c9db29a665463943ef8c13.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8235"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8235",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3786,12 +4058,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8233",
+      "id": "ax-8233",
+      "source": "axfilm",
       "car": "保時捷 911",
       "color": "TPU邁阿密藍",
       "brand": "Porsche 保時捷",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250429/6bfff35d07c6170d22932c942dcd8611.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8233"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8233",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3849,12 +4123,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8257",
+      "id": "ax-8257",
+      "source": "axfilm",
       "car": "福斯 邁騰",
       "color": "TPU盧加諾藍+TPU超級黑",
       "brand": "Volkswagen 福斯",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250611/0fff59143efd3de3acf528dfa93b1415.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8257"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8257",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3926,12 +4202,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8338",
+      "id": "ax-8338",
+      "source": "axfilm",
       "car": "保時捷 Cayman",
       "color": "普羅旺斯紫",
       "brand": "Porsche 保時捷",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/1362aba15e1552bd6e7a7f7f9f530c5e.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8338"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8338",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -3961,12 +4239,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8336",
+      "id": "ax-8336",
+      "source": "axfilm",
       "car": "保時捷 Panamera",
       "color": "紫水晶金屬",
       "brand": "Porsche 保時捷",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/1b61dd07fe5b7191c3b80bd1e0bd98f5.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8336"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8336",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4024,12 +4304,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8371",
-      "car": "騰勢 D9",
+      "id": "hw-1848",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
       "color": "GT銀",
-      "brand": "其他",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/90035dfc79ac85e3076091aa82adb0dc.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8371"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251125_KIM_8555_1b02215db6.jpg",
+      "url": "https://www.housewrapper.com/works/axgtup",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -4045,12 +4327,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8374",
+      "id": "ax-8374",
+      "source": "axfilm",
       "car": "奧迪 A5",
       "color": "亞灰",
       "brand": "Audi 奧迪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/80a3a8103010d20f526219ce18ca8e3a.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8374"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8374",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4066,12 +4350,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8333",
-      "car": "本田 思域",
-      "color": "液態金屬瑪瑙灰",
-      "brand": "其他",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/b2d1dc2ab79ec5771d89cf3d7178248b.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8333"
+      "id": "hw-940",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model 3",
+      "color": "瑪瑙灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3688_85c2e20d87.jpg",
+      "url": "https://www.housewrapper.com/works/AX-AgateGray-MD3",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -4114,7 +4400,16 @@ window.AX_COLORS = [
     "hex": "#dc2626",
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1351",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "瑪瑙深灰",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1996_bdebb17428.jpg",
+      "url": "https://www.housewrapper.com/works/42-AX-AgateDarkGray-MDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 49,
@@ -4213,12 +4508,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8288",
+      "id": "ax-8288",
+      "source": "axfilm",
       "car": "法拉利 Roma",
       "color": "TPU賽車紅",
       "brand": "Ferrari 法拉利",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/505a6ff4961f5d74cb5619c5dadac2f2.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8288"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8288",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4290,12 +4587,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8356",
+      "id": "ax-8356",
+      "source": "axfilm",
       "car": "特斯拉 Model Y",
       "color": "紫晶石",
       "brand": "Tesla 特斯拉",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/e7879809f0a161650e4913a0f6ad4047.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8356"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8356",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4395,12 +4694,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8395",
+      "id": "ax-8395",
+      "source": "axfilm",
       "car": "寶馬 M4",
       "color": "哈德林綠",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/b73a921b698edd9b57724a9b6afabbf4.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8395"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8395",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4527,7 +4828,16 @@ window.AX_COLORS = [
     "hex": "#64748b",
     "gradient": "linear-gradient(135deg, #94a3b8 0%, #64748b 60%, #334155 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1389",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model 3",
+      "color": "緞面尚格嫣",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3307_a58f1aedfd.jpg",
+      "url": "https://www.housewrapper.com/works/61-AX-SatinSolarBronze-MD3",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 77,
@@ -4555,7 +4865,16 @@ window.AX_COLORS = [
     "hex": "#0ea5e9",
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1755",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "緞面競賽藍",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3025_333949c3ec.jpg",
+      "url": "https://www.housewrapper.com/works/73-AX-SatinConcoursBlue-MDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 79,
@@ -4569,7 +4888,16 @@ window.AX_COLORS = [
     "hex": "#f472b6",
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1636",
+      "source": "housewrapper",
+      "car": "HYUNDAI",
+      "color": "猛男粉",
+      "brand": "好室多膜 現代",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6195_7b15623900.jpg",
+      "url": "https://www.housewrapper.com/works/ssavemsda",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 80,
@@ -4738,12 +5066,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8318",
-      "car": "寶馬 2系",
+      "id": "hw-930",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
       "color": "布魯克林灰",
-      "brand": "BMW 寶馬",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/1e7b7d3f7bded6dc725ce2982350c28b.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8318"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9022_bbb3d9b2b7.jpg",
+      "url": "https://www.housewrapper.com/works/AX-BrooklynGray-MDY",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -4759,12 +5089,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8266",
+      "id": "ax-8266",
+      "source": "axfilm",
       "car": "寶馬 5系",
       "color": "貝爾尼納灰",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/2a6126db348f61f233744f18e38c5f82.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8266"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8266",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4780,12 +5112,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8272",
+      "id": "ax-8272",
+      "source": "axfilm",
       "car": "寶馬 X6",
       "color": "碧璽灰",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/937d34b7184af2218b54936f96252a62.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8272"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8272",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4801,12 +5135,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8311",
-      "car": "蔚來 ET5T",
-      "color": "TPU祖母石綠",
-      "brand": "NIO 蔚來",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/14a80630cc1d8c41d8e165c91271fb50.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8311"
+      "id": "hw-1782",
+      "source": "housewrapper",
+      "car": "SKODA",
+      "color": "祖母石綠",
+      "brand": "好室多膜 斯柯達",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5178_3_0cb49027a5.jpg",
+      "url": "https://www.housewrapper.com/works/SADASDA",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -4836,12 +5172,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8267",
+      "id": "ax-8267",
+      "source": "axfilm",
       "car": "理想汽車 理想L6",
       "color": "瓷器藍",
       "brand": "Li Auto 理想",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/fa89d5f94f59991babb616b7cf5b4c3e.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8267"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8267",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4899,12 +5237,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8398",
+      "id": "ax-8398",
+      "source": "axfilm",
       "car": "賓士 邁巴赫GLS",
       "color": "碧璽紅+TPU聖托里尼黑",
       "brand": "Mercedes 賓士",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/b3a6680d6654a11ec6bba21525b1df3d.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8398"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8398",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -4920,12 +5260,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8295",
-      "car": "特斯拉 Model Y",
+      "id": "hw-1706",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
       "color": "山灰",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/ce5019d533a0bd5f8ce1def864678f92.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8295"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5690_3_15f59bdbf8.jpg",
+      "url": "https://www.housewrapper.com/works/WEWQEWQ",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -5025,12 +5367,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8386",
+      "id": "ax-8386",
+      "source": "axfilm",
       "car": "藍寶堅尼 Aventador",
       "color": "蝰蛇綠",
       "brand": "Lamborghini 藍寶堅尼",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/58eb24935e4ca54e27ae087825ad1826.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8386"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8386",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5046,12 +5390,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8351",
+      "id": "ax-8351",
+      "source": "axfilm",
       "car": "奧迪 S4",
       "color": "索諾瑪綠",
       "brand": "Audi 奧迪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/ceb319d080a6538a310001a5a9a894da.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8351"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8351",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5095,12 +5441,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8260",
-      "car": "特斯拉 Model Y",
+      "id": "hw-972",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
       "color": "阿瓦隆綠",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/cdd659f5cb91b72170b99ad80876fa6d.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8260"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9182_28ec83b1e9.jpg",
+      "url": "https://www.housewrapper.com/works/AX-AvalonGreenMetallic-NMD3",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -5158,12 +5506,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8332",
+      "id": "ax-8332",
+      "source": "axfilm",
       "car": "賓利 飛馳",
       "color": "玻璃藍",
       "brand": "Bentley 賓利",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/91f89d5ae0c9b69fc6d4935e5a3301d4.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8332"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8332",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5221,12 +5571,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8366",
+      "id": "ax-8366",
+      "source": "axfilm",
       "car": "奧迪 A5",
       "color": "液態金屬威尼斯紫",
       "brand": "Audi 奧迪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/1327f606366d215696a749295f147a03.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8366"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8366",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5242,12 +5594,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8316",
+      "id": "ax-8316",
+      "source": "axfilm",
       "car": "MINI  COOPER",
       "color": "TPU納多灰",
-      "brand": "其他",
+      "brand": "AX 原廠案例",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250730/032c076a5dc50d2eea4712fdba845ca9.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8316"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8316",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5333,12 +5687,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8355",
+      "id": "ax-8355",
+      "source": "axfilm",
       "car": "極狐阿爾法S5",
       "color": "寶石綠金屬漆",
-      "brand": "其他",
+      "brand": "AX 原廠案例",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/ea4c1ee96ecebebafda934675bdc4cb4.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8355"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8355",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5354,12 +5710,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8383",
+      "id": "ax-8383",
+      "source": "axfilm",
       "car": "蔚來 ET7",
       "color": "鸚鵡綠",
       "brand": "NIO 蔚來",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/9c1b71928f1511c1edf02d8ddb05c7da.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8383"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8383",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5473,12 +5831,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ffffff 0%, #f1f5f9 60%, #cbd5e1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8327",
-      "car": "特斯拉 Model 3",
+      "id": "hw-1407",
+      "source": "housewrapper",
+      "car": "HYUNDAI",
       "color": "珍珠白",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/2fed0571f840962625bff15c8ee26c81.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8327"
+      "brand": "好室多膜 現代",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2392_846eedcd01.jpg",
+      "url": "https://www.housewrapper.com/works/70-AX-PearlWhite-Custin",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -5522,12 +5882,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8413",
-      "car": "領克09",
+      "id": "hw-1365",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
       "color": "冰川藍",
-      "brand": "Lynk & Co 領克",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/attach/2025/09/a615d202509281507583135.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8413"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2034_54426319df.jpg",
+      "url": "https://www.housewrapper.com/works/50-AX-GlacierBlue-MDY",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -5570,7 +5932,16 @@ window.AX_COLORS = [
     "hex": "#dc2626",
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-939",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "烈焰紅",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8468_aff52146a0.jpg",
+      "url": "https://www.housewrapper.com/works/AX-UltraRed-MDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 20,
@@ -5641,12 +6012,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8396",
+      "id": "ax-8396",
+      "source": "axfilm",
       "car": "奧迪 Q7",
       "color": "滑石灰",
       "brand": "Audi 奧迪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/2c65d5ba8f697b3e794720e0fd55c27c.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8396"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8396",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5675,7 +6048,16 @@ window.AX_COLORS = [
     "hex": "#f472b6",
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1426",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "緞面玫瑰金",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3761_495e697a13.jpg",
+      "url": "https://www.housewrapper.com/works/79-AX-SatinRoseGold-NMD3",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 27,
@@ -5689,7 +6071,16 @@ window.AX_COLORS = [
     "hex": "#f8fafc",
     "gradient": "linear-gradient(135deg, #ffffff 0%, #f1f5f9 60%, #cbd5e1 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1418",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "陶瓷白",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3466_e329437541.jpg",
+      "url": "https://www.housewrapper.com/works/75-AX-CeramicWhite-NMD3",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 28,
@@ -5718,12 +6109,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 60%, #7f1d1d 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8243",
+      "id": "ax-8243",
+      "source": "axfilm",
       "car": "AITO汽車 AITO問界M9",
       "color": "金瑞紅",
       "brand": "AITO 問界",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/a3e1fd4f964386c8a79e616a5af0e8d1.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8243"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8243",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5781,12 +6174,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8321",
+      "id": "ax-8321",
+      "source": "axfilm",
       "car": "法拉利 F12berlinetta",
       "color": "皇家綠",
       "brand": "Ferrari 法拉利",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/5f57662c6e2e962ee76f07dd90a3d84b.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8321"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8321",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5801,7 +6196,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1726",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "巴黎玄米-懸浮",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4489_9021e437d0.jpg",
+      "url": "https://www.housewrapper.com/works/SSADAD",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 35,
@@ -5858,12 +6262,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8382",
+      "id": "ax-8382",
+      "source": "axfilm",
       "car": "特斯拉 Model Y",
       "color": "TPU鏡空粉",
       "brand": "Tesla 特斯拉",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250906/9b6946597c3557eb5b22a1d169029116.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8382"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8382",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -5963,12 +6369,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8300",
+      "id": "ax-8300",
+      "source": "axfilm",
       "car": "蔚來 ES6",
       "color": "靈境紫",
       "brand": "NIO 蔚來",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/23342754deb84981b5146bcfbe26bcc7.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8300"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8300",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6012,12 +6420,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8400",
+      "id": "ax-8400",
+      "source": "axfilm",
       "car": "蔚來 ES6",
       "color": "月輝銀",
       "brand": "NIO 蔚來",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/3b067d40c6c6bb8f5b921ac19f13514f.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8400"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8400",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6061,12 +6471,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8376",
+      "id": "ax-8376",
+      "source": "axfilm",
       "car": "麥拉倫 720S",
       "color": "馬威利紫",
       "brand": "McLaren 麥拉倫",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/81995afb8844e18f7890884d8a9c9976.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8376"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8376",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6096,12 +6508,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ffffff 0%, #f1f5f9 60%, #cbd5e1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8262",
-      "car": "特斯拉 Model 3",
+      "id": "hw-1850",
+      "source": "housewrapper",
+      "car": "HONDA",
       "color": "胡椒白",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/52482fdd594acc72447d2eb8fc1d76b3.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8262"
+      "brand": "好室多膜 門市實作",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251126_KIM_8576_732496f96b.jpg",
+      "url": "https://www.housewrapper.com/works/futi",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6116,7 +6530,16 @@ window.AX_COLORS = [
     "hex": "#94a3b8",
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1808",
+      "source": "housewrapper",
+      "car": "其他車款",
+      "color": "流光銀",
+      "brand": "好室多膜 門市實作",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251107_KIM_8336_448a9e1e86.jpg",
+      "url": "https://www.housewrapper.com/works/QWEQWE",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 55,
@@ -6187,12 +6610,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8375",
+      "id": "ax-8375",
+      "source": "axfilm",
       "car": "路特斯 Emeya L+",
       "color": "耀眼黃",
       "brand": "Lotus 蓮花",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/985754f9462c014f8d2c9c483d897308.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8375"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8375",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6249,7 +6674,16 @@ window.AX_COLORS = [
     "hex": "#f472b6",
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1308",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
+      "color": "玫琳凱粉",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0145_50e81ada5e.jpg",
+      "url": "https://www.housewrapper.com/works/10-AX-MarryKayPink-MDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 64,
@@ -6334,12 +6768,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8413",
-      "car": "領克09",
+      "id": "hw-1365",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
       "color": "冰川藍",
-      "brand": "Lynk & Co 領克",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/attach/2025/09/a615d202509281507583135.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8413"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2034_54426319df.jpg",
+      "url": "https://www.housewrapper.com/works/50-AX-GlacierBlue-MDY",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6369,12 +6805,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #e2e8f0 0%, #94a3b8 60%, #475569 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8404",
+      "id": "ax-8404",
+      "source": "axfilm",
       "car": "寶馬 4系",
       "color": "TPU煤炭灰",
       "brand": "BMW 寶馬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/729ff8ca76821ff89a991d3f5e64f66c.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8404"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8404",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6446,12 +6884,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8282",
+      "id": "ax-8282",
+      "source": "axfilm",
       "car": "小鵬汽車 小鵬G6",
       "color": "拜倫灣藍",
       "brand": "XPeng 小鵬",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250617/9b6fdb4c01d6d6934c0778388de7326d.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8282"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8282",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6467,12 +6907,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8224",
+      "id": "ax-8224",
+      "source": "axfilm",
       "car": "路虎 攬勝",
       "color": "TPU巴統金",
       "brand": "Land Rover 路虎",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250418/20687de71ed58c94fd8f52b49060c238.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8224"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8224",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6558,12 +7000,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #ffffff 0%, #f1f5f9 60%, #cbd5e1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8327",
-      "car": "特斯拉 Model 3",
+      "id": "hw-1407",
+      "source": "housewrapper",
+      "car": "HYUNDAI",
       "color": "珍珠白",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/2fed0571f840962625bff15c8ee26c81.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8327"
+      "brand": "好室多膜 現代",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2392_846eedcd01.jpg",
+      "url": "https://www.housewrapper.com/works/70-AX-PearlWhite-Custin",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6579,12 +7023,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8327",
-      "car": "特斯拉 Model 3",
+      "id": "hw-1407",
+      "source": "housewrapper",
+      "car": "HYUNDAI",
       "color": "珍珠白",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/2fed0571f840962625bff15c8ee26c81.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8327"
+      "brand": "好室多膜 現代",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2392_846eedcd01.jpg",
+      "url": "https://www.housewrapper.com/works/70-AX-PearlWhite-Custin",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6600,12 +7046,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #7dd3fc 0%, #0ea5e9 60%, #0369a1 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8327",
-      "car": "特斯拉 Model 3",
+      "id": "hw-1407",
+      "source": "housewrapper",
+      "car": "HYUNDAI",
       "color": "珍珠白",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/2fed0571f840962625bff15c8ee26c81.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8327"
+      "brand": "好室多膜 現代",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2392_846eedcd01.jpg",
+      "url": "https://www.housewrapper.com/works/70-AX-PearlWhite-Custin",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6621,12 +7069,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8327",
-      "car": "特斯拉 Model 3",
+      "id": "hw-1407",
+      "source": "housewrapper",
+      "car": "HYUNDAI",
       "color": "珍珠白",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/2fed0571f840962625bff15c8ee26c81.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8327"
+      "brand": "好室多膜 現代",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2392_846eedcd01.jpg",
+      "url": "https://www.housewrapper.com/works/70-AX-PearlWhite-Custin",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6642,12 +7092,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8327",
-      "car": "特斯拉 Model 3",
+      "id": "hw-1407",
+      "source": "housewrapper",
+      "car": "HYUNDAI",
       "color": "珍珠白",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/2fed0571f840962625bff15c8ee26c81.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8327"
+      "brand": "好室多膜 現代",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2392_846eedcd01.jpg",
+      "url": "https://www.housewrapper.com/works/70-AX-PearlWhite-Custin",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6733,12 +7185,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8354",
+      "id": "ax-8354",
+      "source": "axfilm",
       "car": "小米SU7",
       "color": "馬卡龍白桃粉",
       "brand": "Xiaomi 小米",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/bab8dab201dd244b33432a037576ccea.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8354"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8354",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6768,12 +7222,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fbcfe8 0%, #f472b6 60%, #db2777 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8319",
-      "car": "特斯拉 Model Y煥新版",
+      "id": "hw-955",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 Model Y",
       "color": "花悅粉",
-      "brand": "Tesla 特斯拉",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/66bd8e8d53226156abd82f0783a34af9.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8319"
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7858_cb5c74555c.jpg",
+      "url": "https://www.housewrapper.com/works/AX-SplendidPink-MDY",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6915,12 +7371,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "液態金屬 (Liquid Metal)",
     "exampleCase": {
-      "id": "8325",
-      "car": "蔚來 ET5",
+      "id": "hw-1439",
+      "source": "housewrapper",
+      "car": "BMW 430i",
       "color": "金屬午夜綠",
-      "brand": "NIO 蔚來",
-      "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/c02a453cc0f2d20947da7294d0e888ef.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8325"
+      "brand": "好室多膜 BMW",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4172_3b24f7109d.jpg",
+      "url": "https://www.housewrapper.com/works/93-AX-MetallicMidnightGreen-430i",
+      "badge": "🏆 好室多膜實作"
     }
   },
   {
@@ -6978,12 +7436,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8300",
+      "id": "ax-8300",
+      "source": "axfilm",
       "car": "蔚來 ES6",
       "color": "靈境紫",
       "brand": "NIO 蔚來",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/23342754deb84981b5146bcfbe26bcc7.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8300"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8300",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -6999,12 +7459,14 @@ window.AX_COLORS = [
     "gradient": "linear-gradient(135deg, #d8b4fe 0%, #9333ea 60%, #581c87 100%)",
     "finish": "PET 超亮質感",
     "exampleCase": {
-      "id": "8269",
+      "id": "ax-8269",
+      "source": "axfilm",
       "car": "極氪 001",
       "color": "銀河紫",
       "brand": "Zeekr 極氪",
       "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/26f8d1ca4718834e7b0a4645e3cff32a.jpg",
-      "url": "https://www.axfilm.com/index/index/cases.html?id=8269"
+      "url": "https://www.axfilm.com/index/index/cases.html?id=8269",
+      "badge": "AX 官方案例"
     }
   },
   {
@@ -7131,7 +7593,16 @@ window.AX_COLORS = [
     "hex": "#10b981",
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1580",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model Y",
+      "color": "亮遠峰藍魅綠",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251002_KIM_7772_2_36a193288b.jpg",
+      "url": "https://www.housewrapper.com/works/AXXU4M03Z",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 120,
@@ -7145,7 +7616,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "PET 超亮質感",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1484",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model Y",
+      "color": "亮遠峰藍魅金",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6145_06a2b07854.jpg",
+      "url": "https://www.housewrapper.com/works/123-AX-DistantPeakBlueGold-NMDY",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 121,
@@ -7201,7 +7681,16 @@ window.AX_COLORS = [
     "hex": "#eab308",
     "gradient": "linear-gradient(135deg, #fef08a 0%, #eab308 60%, #a16207 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1819",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model Y",
+      "color": "緞面藍魅金",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251027_KIM_8217_a16876a195.jpg",
+      "url": "https://www.housewrapper.com/works/ax2j04au04ao6ej",
+      "badge": "🏆 好室多膜實作"
+    }
   },
   {
     "index": 125,
@@ -7215,1449 +7704,3618 @@ window.AX_COLORS = [
     "hex": "#10b981",
     "gradient": "linear-gradient(135deg, #6ee7b7 0%, #10b981 60%, #047857 100%)",
     "finish": "啞光絲綢 (Satin Matte)",
-    "exampleCase": null
+    "exampleCase": {
+      "id": "hw-1640",
+      "source": "housewrapper",
+      "car": "Tesla 特斯拉 煥新 Model 3",
+      "color": "緞面藍魅綠-浮雕",
+      "brand": "好室多膜 Tesla",
+      "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5405_3_119c3c4465.jpg",
+      "url": "https://www.housewrapper.com/works/x0treijte2",
+      "badge": "🏆 好室多膜實作"
+    }
   }
 ];
 
 window.AX_CASES = [
   {
-    "id": "6791",
+    "id": "hw-1648",
+    "source": "housewrapper",
+    "car": "SKODA",
+    "color": "高亮納多灰",
+    "brand": "好室多膜 斯柯達",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5431_3_235ce94037.jpg",
+    "url": "https://www.housewrapper.com/works/sadawqewq",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-941",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model X",
+    "color": "神秘綠",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1613_e50d77b66d.jpg",
+    "url": "https://www.housewrapper.com/works/AX-MysteriousGreen-MDX",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1365",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "冰川藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2034_54426319df.jpg",
+    "url": "https://www.housewrapper.com/works/50-AX-GlacierBlue-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1339",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1338_9ad740c2ca.jpg",
+    "url": "https://www.housewrapper.com/works/34-AX-MatteLiquidMetalSilver-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1867",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "啞液態金屬銀-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20260119_KIM_9669_c9f9de29f3.jpg",
+    "url": "https://www.housewrapper.com/works/354",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-963",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7004_a184760c7b.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteGreyStone-MDY3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1780",
+    "source": "housewrapper",
+    "car": "MAZDA",
+    "color": "啞面電鍍金屬黑",
+    "brand": "好室多膜 門市實作",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5304_3_f5ab5c648d.jpg",
+    "url": "https://www.housewrapper.com/works/ADASDAEQEW",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1522",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "液態金屬索瑪托蘭",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7018_ad93f6ae5f.jpg",
+    "url": "https://www.housewrapper.com/works/axsoma",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-972",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "阿瓦隆綠",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9182_28ec83b1e9.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AvalonGreenMetallic-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-939",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "烈焰紅",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8468_aff52146a0.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraRed-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-981",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "電光金屬鈦銀灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9478_64bcc5ce1f.jpg",
+    "url": "https://www.housewrapper.com/works/AX-PearlMetallicTitaniumSliver-MDY2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1819",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "緞面藍魅金",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251027_KIM_8217_a16876a195.jpg",
+    "url": "https://www.housewrapper.com/works/ax2j04au04ao6ej",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1844",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251121_KIM_8499_1cf8a7103e.jpg",
+    "url": "https://www.housewrapper.com/works/wqwqsa",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1313",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "電光金屬鈦銀灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0690_9ba06671be.jpg",
+    "url": "https://www.housewrapper.com/works/21-AX-PearlMetallicTitaniumSilver-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1706",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "山灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5690_3_15f59bdbf8.jpg",
+    "url": "https://www.housewrapper.com/works/WEWQEWQ",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1456",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5507_53acbff878.jpg",
+    "url": "https://www.housewrapper.com/works/114-AX-AlexanderSilver-NMDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1820",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "緞面藍魅金-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251014_KIM_7967_d9b88761d3.jpg",
+    "url": "https://www.housewrapper.com/works/2j04au04x06ao4rup",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-907",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9312_4200203931.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AlexanderSilver-MDY3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1397",
+    "source": "housewrapper",
+    "car": "BMW iX",
+    "color": "超啞黑幻藍",
+    "brand": "好室多膜 BMW",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2891_5d32275b62.jpg",
+    "url": "https://www.housewrapper.com/works/65-AX-UltraMatteAbyssalBlue-iX",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1818",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞面鑽石銀藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9117_18f3f518cd.jpg",
+    "url": "https://www.housewrapper.com/works/AX-MatteDiamondBlueSilver-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1654",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "磨砂黑",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5250_3_019493ab2d.jpg",
+    "url": "https://www.housewrapper.com/works/dwqe2112",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-917",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9046_b42d40cacf.jpg",
+    "url": "https://www.housewrapper.com/works/ax-MatteLiquidMetalSilver-MDY2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-964",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7149_8ace749057.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteGreyStone-MDY4",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1726",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "巴黎玄米-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4489_9021e437d0.jpg",
+    "url": "https://www.housewrapper.com/works/SSADAD",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1295",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0473_a563e248f3.jpg",
+    "url": "https://www.housewrapper.com/works/16-AX-UltraMatteGreyStone-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1405",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "山灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3265_eb539f8c1a.jpg",
+    "url": "https://www.housewrapper.com/works/69-AX-MountainGray-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1445",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4440_b306f9ac6b.jpg",
+    "url": "https://www.housewrapper.com/works/95-AX-MatteLiquidMetalSilver",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-908",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8310_b402c883f3.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AlexanderSilver-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1753",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model 3",
+    "color": "深邃灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7192_48e2ce95ff.jpg",
+    "url": "https://www.housewrapper.com/works/axgpnjo4cj",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1403",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞墨綠",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2976_e0125f0050.jpg",
+    "url": "https://www.housewrapper.com/works/68-AX-UlatraMatteInkGreen-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1848",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "GT銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251125_KIM_8555_1b02215db6.jpg",
+    "url": "https://www.housewrapper.com/works/axgtup",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1269",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "啞灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9746_5a6692dc23.jpg",
+    "url": "https://www.housewrapper.com/works/5-AX-ChalkGrey-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1345",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "山灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1583_b451231714.jpg",
+    "url": "https://www.housewrapper.com/works/38-AX-MountianGray-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-912",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8473_edee7f5d6b.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AlexanderSilver-NMD3-2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1796",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "緞面藍魅金",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6792_a67aa0bd7d.jpg",
+    "url": "https://www.housewrapper.com/works/2j04au04x06",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1468",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "綢緞銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6107_9d6836e478.jpg",
+    "url": "https://www.housewrapper.com/works/155-AX-SatinSilver-NMDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1766",
+    "source": "housewrapper",
+    "car": "BENZ A180",
+    "color": "電光白變金",
+    "brand": "好室多膜 賓士",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9276_362fe0f671.jpg",
+    "url": "https://www.housewrapper.com/works/AX-PearlmetallicWhiteGold-A180",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1355",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model X",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2584_d896fdf778.jpg",
+    "url": "https://www.housewrapper.com/works/45-AX-AlexanderSilver-MDX",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1880",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "啞液態金屬GT銀-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20260115_KIM_9561_a05623465e.jpg",
+    "url": "https://www.housewrapper.com/works/348",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1464",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "小米啞灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5913_3ba98a9dab.jpg",
+    "url": "https://www.housewrapper.com/works/146-AX-ElegantGrayMI-NMDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1466",
+    "source": "housewrapper",
+    "car": "BMW 530i Touring",
+    "color": "GT銀",
+    "brand": "好室多膜 BMW",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6255_65c44f906e.jpg",
+    "url": "https://www.housewrapper.com/works/151-AX-GTSilver-530iTouring",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1389",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model 3",
+    "color": "緞面尚格嫣",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3307_a58f1aedfd.jpg",
+    "url": "https://www.housewrapper.com/works/61-AX-SatinSolarBronze-MD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1529",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "綢緞銀-小懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7096_452ea01e1a.jpg",
+    "url": "https://www.housewrapper.com/works/AXT.62J04UP6",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1644",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5011_3_5123ac7cc9.jpg",
+    "url": "https://www.housewrapper.com/works/dsadwrqeds",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1580",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "亮遠峰藍魅綠",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251002_KIM_7772_2_36a193288b.jpg",
+    "url": "https://www.housewrapper.com/works/AXXU4M03Z",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1795",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1913_1dcd400dd6.jpg",
+    "url": "https://www.housewrapper.com/works/41-AX-MatteLiquidMetalSilver",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1850",
+    "source": "housewrapper",
+    "car": "HONDA",
+    "color": "胡椒白",
+    "brand": "好室多膜 門市實作",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251126_KIM_8576_732496f96b.jpg",
+    "url": "https://www.housewrapper.com/works/futi",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-915",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2141_84d7ee41b4.jpg",
+    "url": "https://www.housewrapper.com/works/AX-MatteLiquidMetalSilver-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1851",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞液態金屬GT銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251119_KIM_8470_7e30acdad2.jpg",
+    "url": "https://www.housewrapper.com/works/AXDJOW2U",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1636",
+    "source": "housewrapper",
+    "car": "HYUNDAI",
+    "color": "猛男粉",
+    "brand": "好室多膜 現代",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6195_7b15623900.jpg",
+    "url": "https://www.housewrapper.com/works/ssavemsda",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1755",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "緞面競賽藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3025_333949c3ec.jpg",
+    "url": "https://www.housewrapper.com/works/73-AX-SatinConcoursBlue-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-926",
+    "source": "housewrapper",
+    "car": "PORSCHE",
+    "color": "啞灰",
+    "brand": "好室多膜 保時捷",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7053_1f157f8329.jpg",
+    "url": "https://www.housewrapper.com/works/AX-ChalkGrey-Macan",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1827",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6920_793e75647c.jpg",
+    "url": "https://www.housewrapper.com/works/196.XA2685012",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1785",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "電光金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5889_0521d95b2d.jpg",
+    "url": "https://www.housewrapper.com/works/2u04jewrwef",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1599",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model X",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6923_0f9cdd1bd2.jpg",
+    "url": "https://www.housewrapper.com/works/AXG0CJO",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-916",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8134_50e7ff75d7.jpg",
+    "url": "https://www.housewrapper.com/works/AX-MatteLiquidMetalSilver-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1730",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "啞灰-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20250505_KIM_4540_e637df9714.jpg",
+    "url": "https://www.housewrapper.com/works/WQEWQEQW",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1855",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model 3",
+    "color": "卡普里灰紫",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251013_KIM_7893_c793382d3d.jpg",
+    "url": "https://www.housewrapper.com/works/255",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1443",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "啞灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4234_b6cb6c50a3.jpg",
+    "url": "https://www.housewrapper.com/works/94-AX-ChalkGrey-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1385",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "啞灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2539_79c41d1924.jpg",
+    "url": "https://www.housewrapper.com/works/59-AX-ChalkGrey-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1874",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "緞面藍魅金",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20260117_KIM_9661_3b97e13a48.jpg",
+    "url": "https://www.housewrapper.com/works/351",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1826",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "超啞灰藍-浮雕",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6992_67f0bf69a5.jpg",
+    "url": "https://www.housewrapper.com/works/189.XA2685003",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-958",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7277_f5bd617f3e.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteGreyStone-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1842",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251120_KIM_8480_723d383fae.jpg",
+    "url": "https://www.housewrapper.com/works/wqqwewas",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1387",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3074_4033d341a6.jpg",
+    "url": "https://www.housewrapper.com/works/60-AX-UltraMatteGreyStone-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1876",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "蒙札灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20260115_KIM_9573_d9da5810c6.jpg",
+    "url": "https://www.housewrapper.com/works/350",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1621",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "啞面電鍍金屬鎢鋼",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251025_KIM_8174_2aca7cd47e.jpg",
+    "url": "https://www.housewrapper.com/works/workjed",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1825",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251016_KIM_8002_4c49a7ec99.jpg",
+    "url": "https://www.housewrapper.com/works/192.NO",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1781",
+    "source": "housewrapper",
+    "car": "AUDI",
+    "color": "啞面電鍍金屬黑",
+    "brand": "好室多膜 奧迪",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20250527_KIM_4731_3_90120d8cca.jpg",
+    "url": "https://www.housewrapper.com/works/ASDASDA",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1474",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6323_1361e9320b.jpg",
+    "url": "https://www.housewrapper.com/works/168-AX-AlexanderSilver-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1751",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "山灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7459_51e249a67e.jpg",
+    "url": "https://www.housewrapper.com/works/AXG-CJO",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1782",
+    "source": "housewrapper",
+    "car": "SKODA",
+    "color": "祖母石綠",
+    "brand": "好室多膜 斯柯達",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5178_3_0cb49027a5.jpg",
+    "url": "https://www.housewrapper.com/works/SADASDA",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1611",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "超啞星黛紫",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7282_eeeebab3bd.jpg",
+    "url": "https://www.housewrapper.com/works/FRERESDS",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1699",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "亞歷山大銀-大懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5507_3_83ebc1193b.jpg",
+    "url": "https://www.housewrapper.com/works/WADWEQ",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1437",
+    "source": "housewrapper",
+    "car": "BMW 120M Sport",
+    "color": "贊德沃特藍",
+    "brand": "好室多膜 BMW",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4343_caf2bd8806.jpg",
+    "url": "https://www.housewrapper.com/works/92-AX-ZandvoortBlue-120M",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1551",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "電光金屬戰鬥灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6766_3f49168837.jpg",
+    "url": "https://www.housewrapper.com/works/AX-PearlMetalCombatAsh",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1367",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "電光金屬深空灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1912_5ed4a49a51.jpg",
+    "url": "https://www.housewrapper.com/works/51-AX-PearlMetallicDeepSpaceGray-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1564",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "溢彩藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6598_ce2d0a7d29.jpg",
+    "url": "https://www.housewrapper.com/works/AX-RadiantBlue",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1736",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "深邃灰-大懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5768_3_b1a06cfaba.jpg",
+    "url": "https://www.housewrapper.com/works/ASDSADFFDG",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1553",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "電光白變紫",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6420_f7b35cd8a0.jpg",
+    "url": "https://www.housewrapper.com/works/AX-PearlMetalWhiteLridescentPurple",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1263",
+    "source": "housewrapper",
+    "car": "AUDI",
+    "color": "綢緞軍綠",
+    "brand": "好室多膜 奧迪",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9925_d29ff93be9.jpg",
+    "url": "https://www.housewrapper.com/works/1-AX-SatinArmyGreen-RS6Avant",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1407",
+    "source": "housewrapper",
+    "car": "HYUNDAI",
+    "color": "珍珠白",
+    "brand": "好室多膜 現代",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2392_846eedcd01.jpg",
+    "url": "https://www.housewrapper.com/works/70-AX-PearlWhite-Custin",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1828",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6298_9a86e5e434.jpg",
+    "url": "https://www.housewrapper.com/works/161.XA2685007",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1416",
+    "source": "housewrapper",
+    "car": "BMW M850i",
+    "color": "超啞隕石灰",
+    "brand": "好室多膜 BMW",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3177_504f0a7bf9.jpg",
+    "url": "https://www.housewrapper.com/works/74-AX-UltraMatteMeteoriteGray-M850i",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1458",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5498_7be05c7034.jpg",
+    "url": "https://www.housewrapper.com/works/120-AX-AlexanderSilver-NMDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-928",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞面3D炫彩灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8065_1a87148c37.jpg",
+    "url": "https://www.housewrapper.com/works/AX-Matte3DColorfulGray-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1652",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model 3",
+    "color": "夢幻火山灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5125_3_32932bbae9.jpg",
+    "url": "https://www.housewrapper.com/works/asdqwewqe",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-923",
+    "source": "housewrapper",
+    "car": "PORSCHE",
+    "color": "啞灰",
+    "brand": "好室多膜 保時捷",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_IMG_0089_ed1454180b.jpg",
+    "url": "https://www.housewrapper.com/works/AX-ChalkGrey-Panamera",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-922",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model 3",
+    "color": "啞灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9507_ad573f176b.jpg",
+    "url": "https://www.housewrapper.com/works/AX-ChalkGrey-MD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-909",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7264_8e902b38af.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AlexanderSilver-MDY5",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1783",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "電光金屬戰鬥灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7322_2693c600bd.jpg",
+    "url": "https://www.housewrapper.com/works/AX5042JO4",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-934",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "液態金屬鎢鋼",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8530_54cf18316c.jpg",
+    "url": "https://www.housewrapper.com/works/AX-LiquidMetalTungstenSteel-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1779",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251021_KIM_8149_daa88438d7.jpg",
+    "url": "https://www.housewrapper.com/works/axu83xu4g0",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-982",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "電光金屬鈦銀灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8200_da009a8d04.jpg",
+    "url": "https://www.housewrapper.com/works/AX-PearlMetallicTitaniumSliver-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-961",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model X",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7484_3c24c9f2db.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteGreyStone-MDX2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-924",
+    "source": "housewrapper",
+    "car": "FORD KUGA",
+    "color": "啞灰",
+    "brand": "好室多膜 福特",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9432_b1954143cc.jpg",
+    "url": "https://www.housewrapper.com/works/AX-ChalkGrey-KUGA",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-962",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6854_9aa0ed91d5.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteGreyStone-MDY2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1275",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9974_29752b08a8.jpg",
+    "url": "https://www.housewrapper.com/works/9-AX-UltraMatteGreyStone-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1685",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "莫奈紫",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20250529_KIM_4752_3_90272dc55b.jpg",
+    "url": "https://www.housewrapper.com/works/ASDAWQEWQ",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1836",
+    "source": "housewrapper",
+    "car": "HYUNDAI",
+    "color": "液態金屬星翰銀",
+    "brand": "好室多膜 現代",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251117_KIM_8417_290a0e9f35.jpg",
+    "url": "https://www.housewrapper.com/works/Ioniq5N",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1426",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "緞面玫瑰金",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3761_495e697a13.jpg",
+    "url": "https://www.housewrapper.com/works/79-AX-SatinRoseGold-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1821",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "洛麗塔粉",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3883_c7a0a82941.jpg",
+    "url": "https://www.housewrapper.com/works/76-AX-LolitaPink-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1613",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "啞灰-大懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7437_88980b385c.jpg",
+    "url": "https://www.housewrapper.com/works/AXEFER",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1838",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀-小懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251118_KIM_8453_26a2ce009e.jpg",
+    "url": "https://www.housewrapper.com/works/AXU83XU4F",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1823",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6652_acb4b2676b.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteGreyStone-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-955",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "花悅粉",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7858_cb5c74555c.jpg",
+    "url": "https://www.housewrapper.com/works/AX-SplendidPink-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1483",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "緞面藍魅金",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6178_0321685a52.jpg",
+    "url": "https://www.housewrapper.com/works/170-AX-SatinBlueGold-NMDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1431",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "遠山灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1556_2_64f7c4339e.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteDistantMountainGray-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1418",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "陶瓷白",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3466_e329437541.jpg",
+    "url": "https://www.housewrapper.com/works/75-AX-CeramicWhite-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1555",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "蒙札灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20250915_KIM_7458_2f9d54cb38.jpg",
+    "url": "https://www.housewrapper.com/works/AX-MonzaGray",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-960",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model X",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6142_92f8959d46.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteGreyStone-MDX",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1288",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "緞面隱密黑",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0259_b2e3f90a91.jpg",
+    "url": "https://www.housewrapper.com/works/13-AX-SatinStealthBlack-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1640",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "緞面藍魅綠-浮雕",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5405_3_119c3c4465.jpg",
+    "url": "https://www.housewrapper.com/works/x0treijte2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1439",
+    "source": "housewrapper",
+    "car": "BMW 430i",
+    "color": "金屬午夜綠",
+    "brand": "好室多膜 BMW",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4172_3b24f7109d.jpg",
+    "url": "https://www.housewrapper.com/works/93-AX-MetallicMidnightGreen-430i",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1479",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "緞面玫瑰金",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6339_5f79943c57.jpg",
+    "url": "https://www.housewrapper.com/works/181-AX-SatinRoseGold-NMDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1399",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "電光金屬鈦銀灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3126_be6f01d609.jpg",
+    "url": "https://www.housewrapper.com/works/66-AX-PearlMetallicTitaniumSilver-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1629",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "緞面藍魅金-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20250721_KIM_6178_a1eb292001.jpg",
+    "url": "https://www.housewrapper.com/works/2j04au04x906",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-911",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8503_8d22dd744f.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AlexanderSilver-MDY2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-973",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model 3",
+    "color": "超啞黑幻紫",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0916_1303bcbaca.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteBlackPurple",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1671",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "啞液態金屬銀-小懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6474_1e845f93b0.jpg",
+    "url": "https://www.housewrapper.com/works/SAWQQE",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-930",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "布魯克林灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9022_bbb3d9b2b7.jpg",
+    "url": "https://www.housewrapper.com/works/AX-BrooklynGray-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1347",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "羅曼尼紅",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1718_92ef6718c8.jpg",
+    "url": "https://www.housewrapper.com/works/40-AX-RomaneeRed-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1298",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0597_0fdaf7d232.jpg",
+    "url": "https://www.housewrapper.com/works/17-AX-UltraMatteGreyStone-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1808",
+    "source": "housewrapper",
+    "car": "其他車款",
+    "color": "流光銀",
+    "brand": "好室多膜 門市實作",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251107_KIM_8336_448a9e1e86.jpg",
+    "url": "https://www.housewrapper.com/works/QWEQWE",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1291",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "液態金屬星瀚銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0335_08eaa6bf98.jpg",
+    "url": "https://www.housewrapper.com/works/15-AX-LiquidMetalStellarSilver-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-949",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "花悅粉",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8235_5da13a60f4.jpg",
+    "url": "https://www.housewrapper.com/works/AX-SplendidPink-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1566",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "夢幻岩石灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6708_16bbc10b77.jpg",
+    "url": "https://www.housewrapper.com/works/AX-MagicTwinColorGrey",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1393",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3599_ca35bba556.jpg",
+    "url": "https://www.housewrapper.com/works/63-AX-MatteLiquidMetalSilver-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1878",
+    "source": "housewrapper",
+    "car": "MAZDA",
+    "color": "MX5-AX-穆傑羅藍-門內",
+    "brand": "好室多膜 門市實作",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20260123_KIM_9734_6e66457904.jpg",
+    "url": "https://www.housewrapper.com/works/349",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1822",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "啞灰-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20250926_KIM_7680_2_f4171809cb.jpg",
+    "url": "https://www.housewrapper.com/works/AXU83CJO",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1592",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "電光金屬戰鬥灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7353_291cd8fdbb.jpg",
+    "url": "https://www.housewrapper.com/works/AX2U04EJ",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1276",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "溢彩藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9163_89aae1af9f.jpg",
+    "url": "https://www.housewrapper.com/works/AX-RadiantBlue-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1379",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "小米啞灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2695_5a49ac330d.jpg",
+    "url": "https://www.housewrapper.com/works/56-AX-ElegantGrayMI-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1395",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "液態金屬索瑪托藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2223_e406a374b5.jpg",
+    "url": "https://www.housewrapper.com/works/64-AX-LiquidMetalSomatoBlue-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1374",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1812_3890e37b73.jpg",
+    "url": "https://www.housewrapper.com/works/54-AX-AlexanderSilver-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1872",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "綢緞冰川藍-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20260116_KIM_9609_b608cfd95e.jpg",
+    "url": "https://www.housewrapper.com/works/352",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1307",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "緞面尚格嫣",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0091_193add3219.jpg",
+    "url": "https://www.housewrapper.com/works/11-AX-SatinSolarBronze-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-932",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞黑幻藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5147_aea59483b2.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteAbyssalBlue-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1519",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7237_e3316be219.jpg",
+    "url": "https://www.housewrapper.com/works/ymodelyax",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-975",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model X",
+    "color": "羅曼尼紅",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1240_514b309da5.jpg",
+    "url": "https://www.housewrapper.com/works/AX-RomaneeRed-MDX",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1428",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞灰綠",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3991_3f5f8c7a76.jpg",
+    "url": "https://www.housewrapper.com/works/87-AX-UltraMatteAshGreen-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-953",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞液態曜石黑",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9380_4c494704c4.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteLiquidObsidianBlack-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-920",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8620_b9b4cdb4a2.jpg",
+    "url": "https://www.housewrapper.com/works/AX-ChalkGrey-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1570",
+    "source": "housewrapper",
+    "car": "MAZDA",
+    "color": "烈焰紅",
+    "brand": "好室多膜 門市實作",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251020_KIM_8082_d4d98589e5.jpg",
+    "url": "https://www.housewrapper.com/works/miata",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-945",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "冰梅粉",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8984_c1749681a4.jpg",
+    "url": "https://www.housewrapper.com/works/AX-FrozenBerryMetallic-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1363",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_2770_f0ee4d8ca9.jpg",
+    "url": "https://www.housewrapper.com/works/49-UltraMatteGreyStone-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1330",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "迷霧灰紫",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1129_14cdc6ce2a.jpg",
+    "url": "https://www.housewrapper.com/works/28-AX-MistyGrayPurple-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1287",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞黑幻藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0400_91f54fc185.jpg",
+    "url": "https://www.housewrapper.com/works/14-AX-UltraMatteAbyssalBlue-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-919",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "啞液態金屬銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9269_4e1a7ee994.jpg",
+    "url": "https://www.housewrapper.com/works/ax-MatteLiquidMetalSilver-MDY3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1481",
+    "source": "housewrapper",
+    "car": "HYUNDAI",
+    "color": "猛男粉",
+    "brand": "好室多膜 現代",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6195_176e1a586a.jpg",
+    "url": "https://www.housewrapper.com/works/164-AX-MachoPink-Venue",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1265",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "超啞灰綠",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9626_a82b79802f.jpg",
+    "url": "https://www.housewrapper.com/works/3-AX-UltraMatteAshGreen-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1700",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "超啞灰綠",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7244_a88f3a02e6.jpg",
+    "url": "https://www.housewrapper.com/works/TLU843CJO",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1886",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "啞面電鍍金屬鎢鋼-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20260116_KIM_9606_b2f8ee51b9.jpg",
+    "url": "https://www.housewrapper.com/works/343",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1748",
+    "source": "housewrapper",
+    "car": "PORSCHE",
+    "color": "啞灰",
+    "brand": "好室多膜 保時捷",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251014_KIM_7907_91e1b22797.jpg",
+    "url": "https://www.housewrapper.com/works/AXATA",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1289",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "深邃灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8693_f23ea09c7f.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteDarkGray-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1865",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "液態金屬星翰銀-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20260123_KIM_9775_16d42f2e02.jpg",
+    "url": "https://www.housewrapper.com/works/355",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1853",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "卡普里灰紫",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251227_KIM_9329_5ae4dfc28d.jpg",
+    "url": "https://www.housewrapper.com/works/299",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-910",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9143_ff37d7be70.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AlexanderSilver-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1660",
+    "source": "housewrapper",
+    "car": "VOLKSWAGEN",
+    "color": "超啞灰綠",
+    "brand": "好室多膜 福斯",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5034_3_9abe3d691c.jpg",
+    "url": "https://www.housewrapper.com/works/sdjyid",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-966",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "超啞灰藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9069_f88020ca35.jpg",
+    "url": "https://www.housewrapper.com/works/AX-UltraMatteGreyStone-MDY5",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1351",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "瑪瑙深灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1996_bdebb17428.jpg",
+    "url": "https://www.housewrapper.com/works/42-AX-AgateDarkGray-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1317",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0745_72aadc1a8e.jpg",
+    "url": "https://www.housewrapper.com/works/23-AX-AlexanderSilver",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1784",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "電光金屬戰鬥灰-大懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6110_0d50c1a7d0.jpg",
+    "url": "https://www.housewrapper.com/works/GITITY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1430",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model X",
+    "color": "鐳射閃白",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4116_a004794f85.jpg",
+    "url": "https://www.housewrapper.com/works/88-AX-LaserFlashWhite-MDX",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1750",
+    "source": "housewrapper",
+    "car": "BMW iX2",
+    "color": "夢幻岩石灰",
+    "brand": "好室多膜 BMW",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6853_65e31f8b2d.jpg",
+    "url": "https://www.housewrapper.com/works/ICX2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1806",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "競賽藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20251107_KIM_8330_8918fdcaad.jpg",
+    "url": "https://www.housewrapper.com/works/EWR423RWE",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1308",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "玫琳凱粉",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_0145_50e81ada5e.jpg",
+    "url": "https://www.housewrapper.com/works/10-AX-MarryKayPink-MDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-940",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model 3",
+    "color": "瑪瑙灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_3688_85c2e20d87.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AgateGray-MD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1449",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model 3",
+    "color": "緞面玫瑰金",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4061_1365c01c8d.jpg",
+    "url": "https://www.housewrapper.com/works/99-AX-SatinRoseGold-MD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-943",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "穆傑羅藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6452_768aafa2de.jpg",
+    "url": "https://www.housewrapper.com/works/AX-MugelloBlue-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1790",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "液態金屬鎢鋼",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_4244_366705ad6d.jpg",
+    "url": "https://www.housewrapper.com/works/AX-LiquidMetalTungstenSteel-MDY2",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1562",
+    "source": "housewrapper",
+    "car": "BMW X5",
+    "color": "電光金屬黑",
+    "brand": "好室多膜 BMW",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6669_c3450abdf1.jpg",
+    "url": "https://www.housewrapper.com/works/AX-PearlMetalBlack",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1778",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_9455_adedbd47cf.jpg",
+    "url": "https://www.housewrapper.com/works/AX-AlexanderSilver-MDY4",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-921",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "啞灰",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_7358_6e98115c85.jpg",
+    "url": "https://www.housewrapper.com/works/AX-ChalkGrey-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1484",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model Y",
+    "color": "亮遠峰藍魅金",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_6145_06a2b07854.jpg",
+    "url": "https://www.housewrapper.com/works/123-AX-DistantPeakBlueGold-NMDY",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1744",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 Model Y",
+    "color": "電光金屬銀-懸浮",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_5413_3_382016faf8.jpg",
+    "url": "https://www.housewrapper.com/works/ax2u04ej",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-971",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "迷霧藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8157_f1d5563908.jpg",
+    "url": "https://www.housewrapper.com/works/AX-MistyBlue-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1746",
+    "source": "housewrapper",
+    "car": "PORSCHE",
+    "color": "魅影綠金屬",
+    "brand": "好室多膜 保時捷",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_20250926_KIM_7673_2_6bf34e3d5e.jpg",
+    "url": "https://www.housewrapper.com/works/dsadaswqe",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-1334",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "亞歷山大銀",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_1114_785a2eb97f.jpg",
+    "url": "https://www.housewrapper.com/works/30-AX-AlexanderSilver-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "hw-954",
+    "source": "housewrapper",
+    "car": "Tesla 特斯拉 煥新 Model 3",
+    "color": "綢緞藍",
+    "brand": "好室多膜 Tesla",
+    "img": "https://abundant-chickens-80245f58e7.media.strapiapp.com/large_KIM_8965_52dcdf5ab0.jpg",
+    "url": "https://www.housewrapper.com/works/AX-SatinBlue-NMD3",
+    "badge": "🏆 好室多膜實作"
+  },
+  {
+    "id": "ax-6791",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "鑽石綠變紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231011/d5ccc78d69f74f5483881f1c3f33d1f1.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=6791"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=6791",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "5296",
+    "id": "ax-5296",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "鑽石綠變紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20220608/2aa89c33cd34c2c4f6ed54ced1d57707.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=5296"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=5296",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8413",
+    "id": "ax-8413",
+    "source": "axfilm",
     "car": "領克09",
     "color": "冰川藍",
     "brand": "Lynk & Co 領克",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/attach/2025/09/a615d202509281507583135.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8413"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8413",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8395",
+    "id": "ax-8395",
+    "source": "axfilm",
     "car": "寶馬 M4",
     "color": "哈德林綠",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/b73a921b698edd9b57724a9b6afabbf4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8395"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8395",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8405",
+    "id": "ax-8405",
+    "source": "axfilm",
     "car": "蔚來 樂道L90",
     "color": "TPU超級白+TPU阿斯特黑",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/62e5d6406b570ae13586e57a421521b0.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8405"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8405",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8404",
+    "id": "ax-8404",
+    "source": "axfilm",
     "car": "寶馬 4系",
     "color": "TPU煤炭灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/729ff8ca76821ff89a991d3f5e64f66c.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8404"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8404",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8402",
+    "id": "ax-8402",
+    "source": "axfilm",
     "car": "寶馬 3系",
     "color": "鐳射閃白",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/3e0adbb43ae122dacb9f74e2c4ca7d8e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8402"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8402",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8401",
+    "id": "ax-8401",
+    "source": "axfilm",
     "car": "沃爾沃 S60",
     "color": "卡普里灰紫",
     "brand": "Volvo 沃爾沃",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/630ad3a57819fa93348e5f8a3de3650a.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8401"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8401",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8400",
+    "id": "ax-8400",
+    "source": "axfilm",
     "car": "蔚來 ES6",
     "color": "月輝銀",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/3b067d40c6c6bb8f5b921ac19f13514f.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8400"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8400",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8399",
+    "id": "ax-8399",
+    "source": "axfilm",
     "car": "寶馬 5系",
     "color": "液態金屬星瀚銀",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/d2b4016ccff0f1ec8d47aa4e3d814ba2.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8399"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8399",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8398",
+    "id": "ax-8398",
+    "source": "axfilm",
     "car": "賓士 邁巴赫GLS",
     "color": "碧璽紅+TPU聖托里尼黑",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/b3a6680d6654a11ec6bba21525b1df3d.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8398"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8398",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8397",
+    "id": "ax-8397",
+    "source": "axfilm",
     "car": "寶馬 4系",
     "color": "亞光黑",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/bd650bffed611dc520cbc15dbcf26307.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8397"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8397",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8396",
+    "id": "ax-8396",
+    "source": "axfilm",
     "car": "奧迪 Q7",
     "color": "滑石灰",
     "brand": "Audi 奧迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250926/2c65d5ba8f697b3e794720e0fd55c27c.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8396"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8396",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8392",
+    "id": "ax-8392",
+    "source": "axfilm",
     "car": "勞斯萊斯 幻影",
     "color": "磨砂黑",
     "brand": "Rolls-Royce 勞斯萊斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250918/285559a656a7155534d93a2079191847.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8392"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8392",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8394",
+    "id": "ax-8394",
+    "source": "axfilm",
     "car": "福斯 高爾夫GTI",
     "color": "TPU阿斯特黑",
     "brand": "Volkswagen 福斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250918/712b15a3cc26f5684840f4037e43bff0.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8394"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8394",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8393",
+    "id": "ax-8393",
+    "source": "axfilm",
     "car": "賓士 C級",
     "color": "TPU亞力山大銀",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250918/dd2c08f6fb069f14358b07203c502904.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8393"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8393",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8391",
+    "id": "ax-8391",
+    "source": "axfilm",
     "car": "保時捷 Macan",
     "color": "花悅粉+甜菜根紫",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250918/4703318234557dc82164a309f2637c08.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8391"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8391",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8390",
+    "id": "ax-8390",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "亞力山大銀",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250918/6015d17139b0c07d13c61663e3f391a7.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8390"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8390",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8381",
+    "id": "ax-8381",
+    "source": "axfilm",
     "car": "勞斯萊斯 庫裡南",
     "color": "TPU超級黑",
     "brand": "Rolls-Royce 勞斯萊斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/43919bfb21350a5324663b6c169ba404.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8381"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8381",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8379",
+    "id": "ax-8379",
+    "source": "axfilm",
     "car": "寶馬 M5",
     "color": "蒙扎灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/eb14b1cc49eb0f466cdd947955e51923.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8379"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8379",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8386",
+    "id": "ax-8386",
+    "source": "axfilm",
     "car": "藍寶堅尼 Aventador",
     "color": "蝰蛇綠",
     "brand": "Lamborghini 藍寶堅尼",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/58eb24935e4ca54e27ae087825ad1826.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8386"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8386",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8388",
+    "id": "ax-8388",
+    "source": "axfilm",
     "car": "麥拉倫 600LT",
     "color": "TPU邁凱輪橙",
     "brand": "McLaren 麥拉倫",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/5596202946afc88d27e081a1e114c67d.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8388"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8388",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8387",
+    "id": "ax-8387",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "月光寶石",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/f62b1ec195cf090978fe2499ac2e1ad0.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8387"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8387",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8384",
+    "id": "ax-8384",
+    "source": "axfilm",
     "car": "奧迪 A6",
     "color": "派卡德粉",
     "brand": "Audi 奧迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/1c72111058cfa3975f966a43df37cca1.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8384"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8384",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8389",
+    "id": "ax-8389",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "TPU中銀鈦暮紫",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/9fb1ba2cca73b359a985ae5611b831df.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8389"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8389",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8385",
+    "id": "ax-8385",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "月光寶石",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/baf0e860aebd441c64711164404b2bab.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8385"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8385",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8383",
+    "id": "ax-8383",
+    "source": "axfilm",
     "car": "蔚來 ET7",
     "color": "鸚鵡綠",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250911/9c1b71928f1511c1edf02d8ddb05c7da.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8383"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8383",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8382",
+    "id": "ax-8382",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "TPU鏡空粉",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250906/9b6946597c3557eb5b22a1d169029116.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8382"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8382",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8246",
+    "id": "ax-8246",
+    "source": "axfilm",
     "car": "蔚來 ET5T",
     "color": "TPU亞力山大銀",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/57db411fb8e28b8fb66698b3e280a6fc.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8246"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8246",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8288",
+    "id": "ax-8288",
+    "source": "axfilm",
     "car": "法拉利 Roma",
     "color": "TPU賽車紅",
     "brand": "Ferrari 法拉利",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/505a6ff4961f5d74cb5619c5dadac2f2.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8288"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8288",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8304",
+    "id": "ax-8304",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "TPU中銀鈦暮紫",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/2c4ca7c1465e7d721bf73e796211ba47.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8304"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8304",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8233",
+    "id": "ax-8233",
+    "source": "axfilm",
     "car": "保時捷 911",
     "color": "TPU邁阿密藍",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250429/6bfff35d07c6170d22932c942dcd8611.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8233"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8233",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8380",
+    "id": "ax-8380",
+    "source": "axfilm",
     "car": "小米SU7",
     "color": "機車貓咪漸變彩繪定製",
     "brand": "Xiaomi 小米",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/b574fc2074594abe0e06de4e94179c8d.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8380"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8380",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8378",
+    "id": "ax-8378",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "亞力山大銀",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/44e60a13e5516f7c09a7e318eb106bed.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8378"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8378",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8377",
+    "id": "ax-8377",
+    "source": "axfilm",
     "car": "寶馬 M5",
     "color": "蒙扎灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/7458237c81a2e49fef384482b23d6377.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8377"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8377",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8376",
+    "id": "ax-8376",
+    "source": "axfilm",
     "car": "麥拉倫 720S",
     "color": "馬威利紫",
     "brand": "McLaren 麥拉倫",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/81995afb8844e18f7890884d8a9c9976.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8376"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8376",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8375",
+    "id": "ax-8375",
+    "source": "axfilm",
     "car": "路特斯 Emeya L+",
     "color": "耀眼黃",
     "brand": "Lotus 蓮花",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250904/985754f9462c014f8d2c9c483d897308.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8375"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8375",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8374",
+    "id": "ax-8374",
+    "source": "axfilm",
     "car": "奧迪 A5",
     "color": "亞灰",
     "brand": "Audi 奧迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/80a3a8103010d20f526219ce18ca8e3a.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8374"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8374",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8373",
+    "id": "ax-8373",
+    "source": "axfilm",
     "car": "保時捷 Cayenne",
     "color": "凌空灰金屬漆",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/355baeb8f2f671cca353e52e68a9715c.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8373"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8373",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8372",
+    "id": "ax-8372",
+    "source": "axfilm",
     "car": "極氪 001",
     "color": "液態金屬鎢鋼+拉花",
     "brand": "Zeekr 極氪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/a61771885abae046e665c090cc8268b7.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8372"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8372",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8371",
+    "id": "ax-8371",
+    "source": "axfilm",
     "car": "騰勢 D9",
     "color": "GT銀",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/90035dfc79ac85e3076091aa82adb0dc.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8371"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8371",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8370",
+    "id": "ax-8370",
+    "source": "axfilm",
     "car": "福斯 途觀",
     "color": "液態金屬銀",
     "brand": "Volkswagen 福斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/7807c7d09f3ce2110b2a117dd534aae1.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8370"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8370",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8369",
+    "id": "ax-8369",
+    "source": "axfilm",
     "car": "賓士 CLS級",
     "color": "鋼琴黑",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/2b1912b5d8826ca3d807b8a8f25c45f0.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8369"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8369",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8368",
+    "id": "ax-8368",
+    "source": "axfilm",
     "car": "WEY 坦克300",
     "color": "亞面電鍍金屬銀",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/39e4f909f28d64d103176a011dde0453.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8368"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8368",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8367",
+    "id": "ax-8367",
+    "source": "axfilm",
     "car": "寶馬 X5",
     "color": "電光白變紫",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/2223627946783f67ecaff4d42b5b5f3c.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8367"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8367",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8366",
+    "id": "ax-8366",
+    "source": "axfilm",
     "car": "奧迪 A5",
     "color": "液態金屬威尼斯紫",
     "brand": "Audi 奧迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/1327f606366d215696a749295f147a03.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8366"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8366",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8365",
+    "id": "ax-8365",
+    "source": "axfilm",
     "car": "賓士 G級",
     "color": "鋼琴白+鋼琴黑",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250828/0c2ffeedd66bb9498abe25fe67bdcaa3.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8365"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8365",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8364",
+    "id": "ax-8364",
+    "source": "axfilm",
     "car": "AITO汽車 AITO問界M5",
     "color": "北極灰",
     "brand": "AITO 問界",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/3dfebf2f5f9a7c83cbfc47920b999b3f.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8364"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8364",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8363",
+    "id": "ax-8363",
+    "source": "axfilm",
     "car": "保時捷 718",
     "color": "TPU阿斯特黑",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/b2c928cc3d7534138e841bb5e9070982.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8363"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8363",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8362",
+    "id": "ax-8362",
+    "source": "axfilm",
     "car": "保時捷 Macan",
     "color": "TPU冰莓粉",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/4f416398ca6037167d3365c6ea15d43e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8362"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8362",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8361",
+    "id": "ax-8361",
+    "source": "axfilm",
     "car": "麥拉倫 600LT",
     "color": "TPU邁凱輪橙",
     "brand": "McLaren 麥拉倫",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/43c41bcbdf2b5b2900bc59113316f6d9.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8361"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8361",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8360",
+    "id": "ax-8360",
+    "source": "axfilm",
     "car": "蔚來 ET5T",
     "color": "亞面電鍍金屬銀",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/6d7fe9ccbec048f8d19d0a01208c11cb.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8360"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8360",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8359",
+    "id": "ax-8359",
+    "source": "axfilm",
     "car": "AITO汽車 AITO問界M5",
     "color": "北極灰",
     "brand": "AITO 問界",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/b71ffb6328bb818427466ecc01d9c0ac.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8359"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8359",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8358",
+    "id": "ax-8358",
+    "source": "axfilm",
     "car": "賓士 C級",
     "color": "GT銀",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/5c47282e3aa510f51a8ebcb9f76d7f42.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8358"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8358",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8357",
+    "id": "ax-8357",
+    "source": "axfilm",
     "car": "紅旗 H5",
     "color": "磨砂黑",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/10cc12a7025b84dbaf05938dcbe7c158.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8357"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8357",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8356",
+    "id": "ax-8356",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "紫晶石",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/e7879809f0a161650e4913a0f6ad4047.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8356"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8356",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8355",
+    "id": "ax-8355",
+    "source": "axfilm",
     "car": "極狐阿爾法S5",
     "color": "寶石綠金屬漆",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/ea4c1ee96ecebebafda934675bdc4cb4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8355"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8355",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8354",
+    "id": "ax-8354",
+    "source": "axfilm",
     "car": "小米SU7",
     "color": "馬卡龍白桃粉",
     "brand": "Xiaomi 小米",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250823/bab8dab201dd244b33432a037576ccea.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8354"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8354",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "7970",
+    "id": "ax-7970",
+    "source": "axfilm",
     "car": "勞斯萊斯 庫裡南",
     "color": "高亮薰衣草",
     "brand": "Rolls-Royce 勞斯萊斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20240927/51332f07a7607f50bec28d759afa813b.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=7970"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=7970",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8353",
+    "id": "ax-8353",
+    "source": "axfilm",
     "car": "寶馬 7系",
     "color": "TPU超級黑",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/d599c904c0848a611d48ddba2b7e0a00.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8353"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8353",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8352",
+    "id": "ax-8352",
+    "source": "axfilm",
     "car": "寶馬 5系",
     "color": "TPU超級黑",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/32a6fa0b118c12b99c29a33298d78473.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8352"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8352",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8351",
+    "id": "ax-8351",
+    "source": "axfilm",
     "car": "奧迪 S4",
     "color": "索諾瑪綠",
     "brand": "Audi 奧迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/ceb319d080a6538a310001a5a9a894da.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8351"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8351",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8350",
+    "id": "ax-8350",
+    "source": "axfilm",
     "car": "寶馬 3系",
     "color": "迷霧灰紫",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/68ba435b95222ebb1e47248497860bf4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8350"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8350",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8349",
+    "id": "ax-8349",
+    "source": "axfilm",
     "car": "寶馬 3系",
     "color": "雅灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/7d675ae0934af653cb2716d2d3718ef3.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8349"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8349",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8348",
+    "id": "ax-8348",
+    "source": "axfilm",
     "car": "寶馬 ix3",
     "color": "卡普里灰紫",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/ede3eb70ff3f3788f9ba6461e01ebd74.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8348"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8348",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8347",
+    "id": "ax-8347",
+    "source": "axfilm",
     "car": "保時捷 Taycan",
     "color": "冰莓粉",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/f877ac558e618d35d18a151ff9d1acbe.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8347"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8347",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8346",
+    "id": "ax-8346",
+    "source": "axfilm",
     "car": "賓士 GLA",
     "color": "迷霧灰紫",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/1b7b3f340165652f009c2ecd793a9b15.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8346"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8346",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8345",
+    "id": "ax-8345",
+    "source": "axfilm",
     "car": "賓士 S級",
     "color": "液態金屬星瀚銀",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/14b8751a303a0bb66f47226b275fdd02.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8345"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8345",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8343",
+    "id": "ax-8343",
+    "source": "axfilm",
     "car": "法拉利 F8 Tributo",
     "color": "賽車紅",
     "brand": "Ferrari 法拉利",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/9c05493431dd111a50e3066f676e7726.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8343"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8343",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8342",
+    "id": "ax-8342",
+    "source": "axfilm",
     "car": "極氪 MIX",
     "color": "喀納斯青",
     "brand": "Zeekr 極氪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250809/2cd9d10cafe9c9df9958db0fe4dc869d.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8342"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8342",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8341",
+    "id": "ax-8341",
+    "source": "axfilm",
     "car": "阿維塔12",
     "color": "亞力山大銀",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/5b0855c7be89b35c33360ae30edc6a3d.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8341"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8341",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8340",
+    "id": "ax-8340",
+    "source": "axfilm",
     "car": "寶馬 4系",
     "color": "超亞火焰橙",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/599ee8a12c7c67d74aa9249a9a1c9eea.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8340"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8340",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8339",
+    "id": "ax-8339",
+    "source": "axfilm",
     "car": "寶馬 5系",
     "color": "液態金屬銀",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/528df205b9640f09528814ab127d2411.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8339"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8339",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8338",
+    "id": "ax-8338",
+    "source": "axfilm",
     "car": "保時捷 Cayman",
     "color": "普羅旺斯紫",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/1362aba15e1552bd6e7a7f7f9f530c5e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8338"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8338",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8337",
+    "id": "ax-8337",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "凌空灰金屬漆",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/457abfff90d83ff78179eaf27a9adf87.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8337"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8337",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8336",
+    "id": "ax-8336",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "紫水晶金屬",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/1b61dd07fe5b7191c3b80bd1e0bd98f5.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8336"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8336",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8335",
+    "id": "ax-8335",
+    "source": "axfilm",
     "car": "賓士 E級",
     "color": "迷迭香紫",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/65af6288bd601649f07626e931c21053.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8335"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8335",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8334",
+    "id": "ax-8334",
+    "source": "axfilm",
     "car": "賓士 E級",
     "color": "莫奈紫",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/fbff91a35fcbd26fc73c2ca697775484.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8334"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8334",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8333",
+    "id": "ax-8333",
+    "source": "axfilm",
     "car": "本田 思域",
     "color": "液態金屬瑪瑙灰",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/b2d1dc2ab79ec5771d89cf3d7178248b.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8333"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8333",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8332",
+    "id": "ax-8332",
+    "source": "axfilm",
     "car": "賓利 飛馳",
     "color": "玻璃藍",
     "brand": "Bentley 賓利",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/91f89d5ae0c9b69fc6d4935e5a3301d4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8332"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8332",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8331",
+    "id": "ax-8331",
+    "source": "axfilm",
     "car": "賓利 歐陸",
     "color": "亞光黑",
     "brand": "Bentley 賓利",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/f0a248c513718ab72522a10a2e1341a4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8331"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8331",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8330",
+    "id": "ax-8330",
+    "source": "axfilm",
     "car": "福斯 途銳",
     "color": "綢緞黑",
     "brand": "Volkswagen 福斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/8b34ec7cf146aa86fd78735c8aa50956.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8330"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8330",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8329",
+    "id": "ax-8329",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "迷霧灰紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/d5f1df9800255b9c383e6114284dbcc5.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8329"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8329",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8328",
+    "id": "ax-8328",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "亞力山大銀",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/b3f104d32478f6c551cd18626a9d0805.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8328"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8328",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8327",
+    "id": "ax-8327",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "珍珠白",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/2fed0571f840962625bff15c8ee26c81.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8327"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8327",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8326",
+    "id": "ax-8326",
+    "source": "axfilm",
     "car": "特斯拉 Model Y煥新版",
     "color": "超亞夢幻火山灰",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/b021cf0e0c3c3f529add09683d807937.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8326"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8326",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8325",
+    "id": "ax-8325",
+    "source": "axfilm",
     "car": "蔚來 ET5",
     "color": "金屬午夜綠",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/c02a453cc0f2d20947da7294d0e888ef.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8325"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8325",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8324",
+    "id": "ax-8324",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "TPU緞面極夜星藍",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/c2b5066f8f34bf125f3d8928c33b30f5.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8324"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8324",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8323",
+    "id": "ax-8323",
+    "source": "axfilm",
     "car": "賓士 E級",
     "color": "TPU GT銀",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/61a13939e8d8d394597f91e60ae19c86.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8323"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8323",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8322",
+    "id": "ax-8322",
+    "source": "axfilm",
     "car": "寶馬 3系",
     "color": "TPU阿斯特黑",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/1422cc542ba7f76f970f3a3f5db1255a.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8322"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8322",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8321",
+    "id": "ax-8321",
+    "source": "axfilm",
     "car": "法拉利 F12berlinetta",
     "color": "皇家綠",
     "brand": "Ferrari 法拉利",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/5f57662c6e2e962ee76f07dd90a3d84b.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8321"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8321",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8320",
+    "id": "ax-8320",
+    "source": "axfilm",
     "car": "小米SU7 Ultra",
     "color": "GT銀",
     "brand": "Xiaomi 小米",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/eac598ac25b58a03cb252ef9cb8a3720.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8320"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8320",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8319",
+    "id": "ax-8319",
+    "source": "axfilm",
     "car": "特斯拉 Model Y煥新版",
     "color": "花悅粉",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/66bd8e8d53226156abd82f0783a34af9.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8319"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8319",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8318",
+    "id": "ax-8318",
+    "source": "axfilm",
     "car": "寶馬 2系",
     "color": "布魯克林灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/1e7b7d3f7bded6dc725ce2982350c28b.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8318"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8318",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8317",
+    "id": "ax-8317",
+    "source": "axfilm",
     "car": "寶馬 3系",
     "color": "夢幻粉",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250808/428bbd370a929093d617fa1f4f04d564.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8317"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8317",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8316",
+    "id": "ax-8316",
+    "source": "axfilm",
     "car": "MINI  COOPER",
     "color": "TPU納多灰",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250730/032c076a5dc50d2eea4712fdba845ca9.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8316"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8316",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8315",
+    "id": "ax-8315",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "TPU緞面暗苔綠",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250726/baa9e18538ddd60954ed68cd3f4ffe7a.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8315"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8315",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8314",
+    "id": "ax-8314",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "TPU緞面暗苔綠",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250726/9ea267e0c0c3bdda92cbeb79e7e979b5.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8314"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8314",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8313",
+    "id": "ax-8313",
+    "source": "axfilm",
     "car": "凱迪拉克 CT4",
     "color": "亞液態金屬銀",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250726/53bf69baade18425b1bf9dc17ef7f53e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8313"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8313",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8312",
+    "id": "ax-8312",
+    "source": "axfilm",
     "car": "寶馬 4系",
     "color": "GT銀",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250726/720fddfd19cd7682a604057c3cc82c70.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8312"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8312",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8311",
+    "id": "ax-8311",
+    "source": "axfilm",
     "car": "蔚來 ET5T",
     "color": "TPU祖母石綠",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/14a80630cc1d8c41d8e165c91271fb50.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8311"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8311",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8310",
+    "id": "ax-8310",
+    "source": "axfilm",
     "car": "方程豹豹5",
     "color": "TPU亞力山大銀",
     "brand": "BYD 比亞迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/3b02ec45b3bdc90b181fd2b68e127e8c.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8310"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8310",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8309",
+    "id": "ax-8309",
+    "source": "axfilm",
     "car": "特斯拉 Model 3 煥新版",
     "color": "TPU靈動粉",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/4bccb64c61c6efc62fd6204e07e90e24.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8309"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8309",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8308",
+    "id": "ax-8308",
+    "source": "axfilm",
     "car": "寶馬 M5",
     "color": "克萊因藍",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/ded976cf7a9a27d5018fe91d8670d116.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8308"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8308",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8307",
+    "id": "ax-8307",
+    "source": "axfilm",
     "car": "寶馬 5系",
     "color": "星光寶石紅",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/5415c5ed40c623f12a91b9ae4311fe9d.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8307"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8307",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8306",
+    "id": "ax-8306",
+    "source": "axfilm",
     "car": "保時捷 911",
     "color": "鋼琴黑",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/4fe1f0dadd4be215ee296ef97f67f7fc.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8306"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8306",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8303",
+    "id": "ax-8303",
+    "source": "axfilm",
     "car": "勞斯萊斯 庫裡南",
     "color": "TPU超級黑",
     "brand": "Rolls-Royce 勞斯萊斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/f1cba224727c458e3e5caa33b07be45c.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8303"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8303",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8302",
+    "id": "ax-8302",
+    "source": "axfilm",
     "car": "寶馬 X3",
     "color": "TPU卡普里灰紫",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250723/6ea02eded26b61e4b9545c2c1d04da07.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8302"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8302",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8301",
+    "id": "ax-8301",
+    "source": "axfilm",
     "car": "寶馬 X3",
     "color": "星空灰魅影",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/8d2bd7709ab3dbfae3181ab882d5f494.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8301"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8301",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8300",
+    "id": "ax-8300",
+    "source": "axfilm",
     "car": "蔚來 ES6",
     "color": "靈境紫",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/23342754deb84981b5146bcfbe26bcc7.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8300"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8300",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8298",
+    "id": "ax-8298",
+    "source": "axfilm",
     "car": "寶馬 3系",
     "color": "自修復-摩根石粉",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/5e90dcf0b70b1041a67e823992fb59d4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8298"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8298",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8299",
+    "id": "ax-8299",
+    "source": "axfilm",
     "car": "極氪 007",
     "color": "液態金屬星瀚銀",
     "brand": "Zeekr 極氪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/fcecd8d40d83f426c76f96965e6f2c66.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8299"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8299",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8289",
+    "id": "ax-8289",
+    "source": "axfilm",
     "car": "寶馬 4系",
     "color": "阿布扎比藍",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/6bb17571e35efcc36a2655234bef45f3.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8289"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8289",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8297",
+    "id": "ax-8297",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "高亮火山灰",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/85bb828af7c7bcd5a7a90c717ab9fbe4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8297"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8297",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8296",
+    "id": "ax-8296",
+    "source": "axfilm",
     "car": "理想汽車 理想ONE",
     "color": "亞力山大銀",
     "brand": "Li Auto 理想",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/9d658536405ffff6720b09f782a66718.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8296"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8296",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8295",
+    "id": "ax-8295",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "山灰",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/ce5019d533a0bd5f8ce1def864678f92.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8295"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8295",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8294",
+    "id": "ax-8294",
+    "source": "axfilm",
     "car": "本田 思鉑睿",
     "color": "亞力山大銀",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/148f60b0185bf14cc7e07551f9568fe5.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8294"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8294",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8293",
+    "id": "ax-8293",
+    "source": "axfilm",
     "car": "極氪 001",
     "color": "超亞黑幻紫",
     "brand": "Zeekr 極氪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/56341275a0a281fb613218a30d8fceed.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8293"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8293",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8292",
+    "id": "ax-8292",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "GT銀",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/2fbfbf442f24acf2da3e0723107c0272.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8292"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8292",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8291",
+    "id": "ax-8291",
+    "source": "axfilm",
     "car": "阿維塔06",
     "color": "電光金屬銀",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/9f35d0f0f683a52746e0af8075e8dc88.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8291"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8291",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8290",
+    "id": "ax-8290",
+    "source": "axfilm",
     "car": "路虎 衛士",
     "color": "綢緞軍綠",
     "brand": "Land Rover 路虎",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/95d65873a7f921e47a419d9154e978bf.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8290"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8290",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8287",
+    "id": "ax-8287",
+    "source": "axfilm",
     "car": "極氪 001",
     "color": "TPU超級黑",
     "brand": "Zeekr 極氪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/bcc251a1e3c4b0a25d40b312afa806d4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8287"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8287",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8286",
+    "id": "ax-8286",
+    "source": "axfilm",
     "car": "小米SU7",
     "color": "TPU GT銀",
     "brand": "Xiaomi 小米",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/731eddf9f07a7459ea77ce382b2a3fd4.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8286"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8286",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8285",
+    "id": "ax-8285",
+    "source": "axfilm",
     "car": "蔚來 ES8",
     "color": "GT銀",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250703/e54ced26c705f8492f204e7a9587754f.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8285"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8285",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8284",
+    "id": "ax-8284",
+    "source": "axfilm",
     "car": "蔚來 ET5T",
     "color": "布魯克林灰",
     "brand": "NIO 蔚來",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250702/9155de44671dc3ddaf78b6f5ee0766bd.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8284"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8284",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8283",
+    "id": "ax-8283",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "液態金屬銀",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250628/4a9d175471a300b489486a29cdce9cbc.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8283"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8283",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "6671",
+    "id": "ax-6671",
+    "source": "axfilm",
     "car": "保時捷 Taycan",
     "color": "TPU只此青綠",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20230817/310f7fd1691bcdaa29a75d49922baee6.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=6671"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=6671",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8050",
+    "id": "ax-8050",
+    "source": "axfilm",
     "car": "福特 野馬",
     "color": "競速橙",
     "brand": "Ford 福特",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20241128/a52d356ff1856ab31435f7b985171af8.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8050"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8050",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "7790",
+    "id": "ax-7790",
+    "source": "axfilm",
     "car": "寶馬 3系",
     "color": "競速檸",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20240719/a01f2d5c5d24d07fc87352ff12401844.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=7790"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=7790",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "7177",
+    "id": "ax-7177",
+    "source": "axfilm",
     "car": "勞斯萊斯 魅影",
     "color": "競速橙",
     "brand": "Rolls-Royce 勞斯萊斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231216/7f965af3bf7419becc518bf701478cfb.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=7177"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=7177",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "6957",
+    "id": "ax-6957",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "競速橙",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231103/4ee31adab0d74acca421754f78bf5a1e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=6957"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=6957",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "6982",
+    "id": "ax-6982",
+    "source": "axfilm",
     "car": "極氪 001",
     "color": "競速橙",
     "brand": "Zeekr 極氪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231107/d50013ce5cb9db6c9b60eaf605535b11.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=6982"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=6982",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "6971",
+    "id": "ax-6971",
+    "source": "axfilm",
     "car": "奧迪 RS 5",
     "color": "競速時光橙",
     "brand": "Audi 奧迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231104/9f1541c1bc60abd743373e8465b69d58.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=6971"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=6971",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "6564",
+    "id": "ax-6564",
+    "source": "axfilm",
     "car": "麥拉倫 邁凱輪GT",
     "color": "競速橙",
     "brand": "McLaren 麥拉倫",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20230711/222906cc4ff7411c4b7927c45f4218a5.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=6564"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=6564",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8282",
+    "id": "ax-8282",
+    "source": "axfilm",
     "car": "小鵬汽車 小鵬G6",
     "color": "拜倫灣藍",
     "brand": "XPeng 小鵬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250617/9b6fdb4c01d6d6934c0778388de7326d.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8282"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8282",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8281",
+    "id": "ax-8281",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "TPU亞力山大銀",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/33297c5140aa98b669eeecb3f93a8dcf.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8281"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8281",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8280",
+    "id": "ax-8280",
+    "source": "axfilm",
     "car": "路特斯 ELETRE",
     "color": "TPU超級葵花黃",
     "brand": "Lotus 蓮花",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/f666a854a6940c36182097cee77ea961.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8280"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8280",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8279",
+    "id": "ax-8279",
+    "source": "axfilm",
     "car": "雷克薩斯 LX",
     "color": "TPU珍珠白",
-    "brand": "其他",
+    "brand": "AX 原廠案例",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/abf2c9d9cae093c5ee71d6e711dbd3a1.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8279"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8279",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8278",
+    "id": "ax-8278",
+    "source": "axfilm",
     "car": "福斯 ID3",
     "color": "液態金屬香檳粉",
     "brand": "Volkswagen 福斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/4e04ab2036eddc04401629dbb2bd87b3.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8278"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8278",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8277",
+    "id": "ax-8277",
+    "source": "axfilm",
     "car": "路虎 攬勝",
     "color": "鑽石白金",
     "brand": "Land Rover 路虎",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/bea30887e832fcf88b6792328da5384b.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8277"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8277",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8275",
+    "id": "ax-8275",
+    "source": "axfilm",
     "car": "寶馬 4系",
     "color": "GT銀",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/b73e3c4ba0a9e6a64678c1940eb94509.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8275"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8275",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8274",
+    "id": "ax-8274",
+    "source": "axfilm",
     "car": "賓士 E級",
     "color": "液態金屬銀",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/b8f183b65391298523110943bbb1808e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8274"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8274",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8273",
+    "id": "ax-8273",
+    "source": "axfilm",
     "car": "寶馬 4系",
     "color": "亞灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/a38518a867de5bfade32e3c3fc0e7750.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8273"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8273",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8272",
+    "id": "ax-8272",
+    "source": "axfilm",
     "car": "寶馬 X6",
     "color": "碧璽灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/937d34b7184af2218b54936f96252a62.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8272"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8272",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8271",
+    "id": "ax-8271",
+    "source": "axfilm",
     "car": "小米SU7",
     "color": "流動星芒銀",
     "brand": "Xiaomi 小米",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/e6b422cb74a94747a992aff31a46d0a2.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8271"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8271",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8270",
+    "id": "ax-8270",
+    "source": "axfilm",
     "car": "賓士 C級",
     "color": "高亮貝殼粉",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/3f0823aed1385ca61b3ad014b541fc68.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8270"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8270",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8269",
+    "id": "ax-8269",
+    "source": "axfilm",
     "car": "極氪 001",
     "color": "銀河紫",
     "brand": "Zeekr 極氪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250614/26f8d1ca4718834e7b0a4645e3cff32a.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8269"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8269",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8268",
+    "id": "ax-8268",
+    "source": "axfilm",
     "car": "特斯拉 Model Y煥新版",
     "color": "卡普里灰紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/848ebed2c21666ba14c84dec4b2a40b7.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8268"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8268",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8267",
+    "id": "ax-8267",
+    "source": "axfilm",
     "car": "理想汽車 理想L6",
     "color": "瓷器藍",
     "brand": "Li Auto 理想",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/fa89d5f94f59991babb616b7cf5b4c3e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8267"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8267",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8266",
+    "id": "ax-8266",
+    "source": "axfilm",
     "car": "寶馬 5系",
     "color": "貝爾尼納灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/2a6126db348f61f233744f18e38c5f82.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8266"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8266",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8265",
+    "id": "ax-8265",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "迷迭香紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/a828cc6b660aeb2a35cb54fbf67b7d9a.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8265"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8265",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8263",
+    "id": "ax-8263",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "花悅粉",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/6a6977489a9a75527ccf505d14f0f1e7.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8263"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8263",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8262",
+    "id": "ax-8262",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "胡椒白",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/52482fdd594acc72447d2eb8fc1d76b3.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8262"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8262",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8261",
+    "id": "ax-8261",
+    "source": "axfilm",
     "car": "寶馬 3系",
     "color": "山灰",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/5c774833f1fd91fc740b789c58c39e94.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8261"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8261",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8260",
+    "id": "ax-8260",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "阿瓦隆綠",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/cdd659f5cb91b72170b99ad80876fa6d.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8260"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8260",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8259",
+    "id": "ax-8259",
+    "source": "axfilm",
     "car": "賓士 EQS",
     "color": "山灰",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/0fcdae2d3ad52e478ad16944a6c0f573.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8259"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8259",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8258",
+    "id": "ax-8258",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "普羅旺斯紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250613/5b1d4a53c6f8709b58daf9d25e918eaf.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8258"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8258",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8257",
+    "id": "ax-8257",
+    "source": "axfilm",
     "car": "福斯 邁騰",
     "color": "TPU盧加諾藍+TPU超級黑",
     "brand": "Volkswagen 福斯",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250611/0fff59143efd3de3acf528dfa93b1415.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8257"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8257",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8256",
+    "id": "ax-8256",
+    "source": "axfilm",
     "car": "賓士 G63",
     "color": "訊號黃",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250611/88eba735222a7a1cf119ed789aabaa2f.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8256"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8256",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8255",
+    "id": "ax-8255",
+    "source": "axfilm",
     "car": "藍寶堅尼 Urus&麥拉倫720S",
     "color": "派卡德粉",
     "brand": "Lamborghini 藍寶堅尼",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/a55aa7d51dd1a6ace6235af4e76c64c3.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8255"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8255",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8254",
+    "id": "ax-8254",
+    "source": "axfilm",
     "car": "賓士 E級",
     "color": "TPU星空黑魅紅",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/f002817dd6bc92faa76c9d062c639323.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8254"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8254",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8253",
+    "id": "ax-8253",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "花悅粉",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/aa0836c86f6d332ad3eb32dec44b4610.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8253"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8253",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8252",
+    "id": "ax-8252",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "卡普里灰紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/233f2d25eca46feedb6f053cba2f521e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8252"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8252",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8249",
+    "id": "ax-8249",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "液態金屬銀",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/d9e2e473f32fd9d896371f49aae7e86f.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8249"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8249",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8248",
+    "id": "ax-8248",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "星黛紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/ca9c69a4f0553ca8327f7de910bee7ab.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8248"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8248",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8247",
+    "id": "ax-8247",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "亞力山大銀",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250530/54a5a22b68b8030bae27d151f9071d39.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8247"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8247",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8242",
+    "id": "ax-8242",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "液態金屬索瑪託藍",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/9e927a8673f526c66c04fb385e4276f9.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8242"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8242",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8222",
+    "id": "ax-8222",
+    "source": "axfilm",
     "car": "麥拉倫 GT",
     "color": "TPU GT銀",
     "brand": "McLaren 麥拉倫",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250418/bb1050e5ca730da2853fce9b21360f29.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8222"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8222",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8224",
+    "id": "ax-8224",
+    "source": "axfilm",
     "car": "路虎 攬勝",
     "color": "TPU巴統金",
     "brand": "Land Rover 路虎",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250418/20687de71ed58c94fd8f52b49060c238.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8224"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8224",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8190",
+    "id": "ax-8190",
+    "source": "axfilm",
     "car": "寶馬 X6 M",
     "color": "TPU賽車紅",
     "brand": "BMW 寶馬",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250314/7f0927d8206262c15d22b8779cca5c2b.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8190"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8190",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8235",
+    "id": "ax-8235",
+    "source": "axfilm",
     "car": "賓利 歐陸",
     "color": "TPU曼巴綠",
     "brand": "Bentley 賓利",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250429/3b3fe48af8c9db29a665463943ef8c13.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8235"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8235",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8245",
+    "id": "ax-8245",
+    "source": "axfilm",
     "car": "奧迪 A6",
     "color": "TPU GT銀",
     "brand": "Audi 奧迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/a82338203e0e9ca7d2854c29b5ad59e0.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8245"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8245",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8244",
+    "id": "ax-8244",
+    "source": "axfilm",
     "car": "藍寶堅尼 Urus",
     "color": "TPU訊號黃",
     "brand": "Lamborghini 藍寶堅尼",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/3a73034f09d175ff0bf993360377aafc.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8244"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8244",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8243",
+    "id": "ax-8243",
+    "source": "axfilm",
     "car": "AITO汽車 AITO問界M9",
     "color": "金瑞紅",
     "brand": "AITO 問界",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/a3e1fd4f964386c8a79e616a5af0e8d1.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8243"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8243",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8241",
+    "id": "ax-8241",
+    "source": "axfilm",
     "car": "特斯拉 Model 3",
     "color": "亞灰",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/c8ad076543fda76a8ac3a9984c90809e.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8241"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8241",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8240",
+    "id": "ax-8240",
+    "source": "axfilm",
     "car": "韋士柏vespa300",
     "color": "高亮薰衣草",
     "brand": "Vespa 偉士牌",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/333510b9cacfcaf57e5173c0d83869ef.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8240"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8240",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8239",
+    "id": "ax-8239",
+    "source": "axfilm",
     "car": "保時捷 Panamera",
     "color": "亞灰",
     "brand": "Porsche 保時捷",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/fd3f291da17c0e2febf6ba6ef6977193.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8239"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8239",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8238",
+    "id": "ax-8238",
+    "source": "axfilm",
     "car": "特斯拉 Model Y",
     "color": "迷霧灰紫",
     "brand": "Tesla 特斯拉",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250517/09896517f557bd811cddcb815150b706.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8238"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8238",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8237",
+    "id": "ax-8237",
+    "source": "axfilm",
     "car": "奧迪 A8",
     "color": "GT銀",
     "brand": "Audi 奧迪",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250429/938f1895a7c853f14975ba0d533d9882.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8237"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8237",
+    "badge": "AX 官方案例"
   },
   {
-    "id": "8234",
+    "id": "ax-8234",
+    "source": "axfilm",
     "car": "賓士 A級",
     "color": "TPU山灰",
     "brand": "Mercedes 賓士",
     "img": "https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20250429/d52a8c8923b906fa2e438af5070cbf37.jpg",
-    "url": "https://www.axfilm.com/index/index/cases.html?id=8234"
+    "url": "https://www.axfilm.com/index/index/cases.html?id=8234",
+    "badge": "AX 官方案例"
   }
 ];

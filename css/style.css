@@ -1079,41 +1079,45 @@ body::before {
 }
 
 .case-info {
-    padding: 1.25rem;
+    padding: 1.15rem 1.25rem;
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.4rem;
     flex-grow: 1;
 }
 
-.case-car {
-    font-size: 1.05rem;
-    font-weight: 800;
-    color: var(--text-main);
-}
-
+/* 顏色做大字 */
 .case-color-row {
     display: flex;
     align-items: center;
-    gap: 0.4rem;
+    gap: 0.45rem;
 }
 
-.color-dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--orange-primary);
+.case-color-title {
+    font-size: 1.15rem;
+    font-weight: 900;
+    color: var(--text-main);
+    letter-spacing: -0.2px;
+    line-height: 1.3;
 }
 
-.case-color {
-    font-size: 0.92rem;
-    color: var(--orange-primary);
-    font-weight: 700;
+/* 車型做小字在第二排 */
+.case-car-sub {
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .case-specs {
     margin-top: auto;
     display: flex;
+    flex-wrap: wrap;
     gap: 0.4rem;
     padding-top: 0.5rem;
 }
@@ -1125,6 +1129,13 @@ body::before {
     font-weight: 600;
     padding: 0.2rem 0.55rem;
     border-radius: var(--radius-sm);
+}
+
+.badge-tag.badge-hw {
+    background: rgba(255, 107, 0, 0.12);
+    color: var(--orange-primary);
+    font-weight: 800;
+    border: 1px solid rgba(255, 107, 0, 0.25);
 }
 
 .load-more-wrap {

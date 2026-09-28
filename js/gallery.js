@@ -22,14 +22,14 @@ class CaseGallery {
         if (!container) return;
 
         const brands = [
-            { key: 'all', label: '🔥 全部案例 (180+)' },
+            { key: 'all', label: '🔥 全部案例 (360+)' },
+            { key: 'housewrapper', label: '🏆 好室多膜實作 (180)' },
             { key: 'Tesla 特斯拉', label: '⚡ Tesla 特斯拉' },
             { key: '保時捷', label: '🏎️ 保時捷 Porsche' },
             { key: 'BMW 寶馬', label: '🏁 BMW 寶馬' },
             { key: 'Mercedes 賓士', label: '⭐ Mercedes 賓士' },
             { key: 'Audi 奧迪', label: '✨ Audi 奧迪' },
             { key: 'NIO 蔚來', label: '🔋 NIO 蔚來' },
-            { key: '小米', label: '🚀 小米 SU7' },
             { key: 'supercar', label: '👑 頂級超跑/豪車' }
         ];
 
@@ -67,7 +67,9 @@ class CaseGallery {
     applyFilters() {
         this.filteredCases = this.allCases.filter(c => {
             let brandMatch = true;
-            if (this.currentBrand === 'supercar') {
+            if (this.currentBrand === 'housewrapper') {
+                brandMatch = c.source === 'housewrapper';
+            } else if (this.currentBrand === 'supercar') {
                 const supercars = ['McLaren', '麥拉倫', '邁凱倫', 'Rolls-Royce', '勞斯萊斯', 'Bentley', '賓利', 'Ferrari', '法拉利', 'Lamborghini', '藍寶堅尼', '蘭博基尼', 'Aston Martin', '奧斯頓馬丁', 'Maserati', '瑪莎拉蒂', 'Lotus', '蓮花'];
                 brandMatch = supercars.some(sc => c.brand.includes(sc) || c.car.includes(sc));
             } else if (this.currentBrand !== 'all') {
@@ -113,19 +115,23 @@ class CaseGallery {
         grid.innerHTML = itemsToShow.map(c => `
             <div class="case-card" onclick="window.caseGallery.openModal('${c.id}')">
                 <div class="case-img-wrap">
-                    <img src="${c.img}" alt="${c.car} - ${c.color}" loading="lazy" onerror="this.src='https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231011/d5ccc78d69f74f5483881f1c3f33d1f1.jpg'"/>
+                    <img src="${c.img}" alt="${c.color} - ${c.car}" loading="lazy" onerror="this.src='https://axfilm.oss-cn-shanghai.aliyuncs.com/uploads/20231011/d5ccc78d69f74f5483881f1c3f33d1f1.jpg'"/>
                     <span class="case-brand-tag">${c.brand}</span>
                     <div class="case-overlay">
                         <span class="view-btn">查看細節 ↗</span>
                     </div>
                 </div>
                 <div class="case-info">
-                    <h4 class="case-car">${c.car}</h4>
                     <div class="case-color-row">
                         <span class="color-dot"></span>
-                        <span class="case-color">${c.color}</span>
+                        <h4 class="case-color-title">${c.color}</h4>
+                    </div>
+                    <div class="case-car-sub">
+                        <span>🚗</span>
+                        <span>${c.car}</span>
                     </div>
                     <div class="case-specs">
+                        <span class="badge-tag ${c.source === 'housewrapper' ? 'badge-hw' : ''}">${c.badge || '實車案例'}</span>
                         <span class="badge-tag">AX 原廠膜</span>
                         <span class="badge-tag">2年原廠質保</span>
                     </div>
@@ -154,7 +160,11 @@ class CaseGallery {
         document.getElementById('case-modal-car').textContent = item.car;
         document.getElementById('case-modal-color').textContent = item.color;
         document.getElementById('case-modal-brand').textContent = item.brand;
-        document.getElementById('case-modal-source').href = item.url;
+        const sourceBtn = document.getElementById('case-modal-source');
+        if (sourceBtn) {
+            sourceBtn.href = item.url;
+            sourceBtn.textContent = item.source === 'housewrapper' ? '好室多膜官網細節 ↗' : 'AX 官網原圖 ↗';
+        }
 
         // Button to lock this color for lottery or direct booking
         const applyBtn = document.getElementById('case-modal-apply-btn');
