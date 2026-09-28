@@ -68,7 +68,8 @@ class CaseGallery {
         this.filteredCases = this.allCases.filter(c => {
             let brandMatch = true;
             if (this.currentBrand === 'supercar') {
-                brandMatch = ['McLaren 邁凱倫', 'Rolls-Royce 勞斯萊斯', 'Bentley 賓利', '法拉利'].includes(c.brand);
+                const supercars = ['McLaren', '麥拉倫', '邁凱倫', 'Rolls-Royce', '勞斯萊斯', 'Bentley', '賓利', 'Ferrari', '法拉利', 'Lamborghini', '藍寶堅尼', '蘭博基尼', 'Aston Martin', '奧斯頓馬丁', 'Maserati', '瑪莎拉蒂', 'Lotus', '蓮花'];
+                brandMatch = supercars.some(sc => c.brand.includes(sc) || c.car.includes(sc));
             } else if (this.currentBrand !== 'all') {
                 brandMatch = c.brand.includes(this.currentBrand) || c.car.includes(this.currentBrand);
             }
