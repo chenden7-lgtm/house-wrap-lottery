@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>好室多膜 HOUSE OF WRAPS ｜ 車主改色膜極速抽色享 9 折優惠</title>
+    <meta name="description" content="好室多膜車主改色膜極速隨機抽色活動！一鍵抽取全庫 463 款 AX Film 原廠膜色，指定抽選中獎顏色到店施工即享 9 折限時禮遇（不得與其他折價活動並用）。">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Sticky Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+            <a href="#" class="brand-logo" id="nav-brand">
+                <img src="assets/logo.png" alt="好室多膜 Logo" class="brand-logo-img">
+                <div class="brand-text-group">
+                    <span class="brand-title">好室多膜</span>
+                    <span class="brand-sub">HOUSE OF WRAPS × AX FILM</span>
+                </div>
+            </a>
+
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#lottery-section" class="nav-link active">極速抽色</a></li>
+                    <li><a href="#gallery-section" class="nav-link">作品案例</a></li>
+                    <li><a href="#rules-section" class="nav-link">活動細則</a></li>
+                </ul>
+            </nav>
+
+            <div class="nav-actions">
+                <button class="btn-sound" id="sound-toggle-btn" title="切換音效">🔊 音效</button>
+                <a href="#lottery-section" class="btn-nav-draw">立即抽 9 折</a>
+                <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="選單">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Navigation Drawer -->
+    <div class="mobile-nav" id="mobile-nav">
+        <button class="mobile-close-btn" id="mobile-close-btn">&times;</button>
+        <div class="brand-logo" style="margin-bottom: 1.5rem;">
+            <img src="assets/logo.png" alt="好室多膜" class="brand-logo-img">
+            <div class="brand-text-group">
+                <span class="brand-title">好室多膜</span>
+                <span class="brand-sub">HOUSE OF WRAPS</span>
+            </div>
+        </div>
+        <a href="#lottery-section" class="mobile-nav-link">⚡ 極速隨機抽色 (9折)</a>
+        <a href="#gallery-section" class="mobile-nav-link">🚗 AX 作品案例庫</a>
+        <a href="#rules-section" class="mobile-nav-link">📋 活動細則 &amp; FAQ</a>
+        <a href="#lottery-section" class="btn-booking-line" style="margin-top: 1rem;">⚡ 立即抽 9 折施工</a>
+    </div>
+
+    <!-- Hero Banner -->
+    <section class="hero-section">
+        <div class="hero-pill-badge">✨ 好室多膜 ｜ AX FILM 官方原廠膜料・質保 2 年保證</div>
+        <h1 class="hero-title">
+            極速抽取您的命定車色<br>
+            <span class="hero-gradient-text">指定色施工享 9 折限時禮遇</span>
+        </h1>
+        <p class="hero-subtitle">
+            全庫 463 款原廠改色膜極速隨機抽選！換個顏色，換種心情，指定抽選到的中獎顏色施工立即享有 9 折專屬優惠。
+        </p>
+
+        <div class="hero-rule-callout">
+            ⚠️ 優惠須知：中獎車色限指定抽選之顏色施工享 9 折（不得與其他折價活動並用）
+        </div>
+
+    </section>
+
+    <!-- Turbo Lottery Section -->
+    <section class="lottery-section" id="lottery-section">
+        <div class="section-header">
+            <div class="section-badge">TURBO RANDOM DRAW</div>
+            <h2 class="section-title">全色系極速隨機抽色</h2>
+            <p class="section-desc">即時連線全庫 463 款原廠膜色，點擊啟動極速輪播抽取，指針定格即為您的 9 折命定色！</p>
+        </div>
+
+        <!-- High-Tech Turbo Console -->
+        <div class="turbo-console">
+            <div class="console-header-status">
+                <div class="live-indicator">
+                    <span class="pulse-dot"></span>
+                    <span>LIVE SYSTEM CONNECTED</span>
+                </div>
+                <div class="pool-counter-badge">
+                    <span>463 款原廠膜色全數在線</span>
+                </div>
+            </div>
+
+            <!-- Center Stage Rolling Swatch -->
+            <div class="turbo-display-stage">
+                <div class="turbo-swatch-halo">
+                    <div class="turbo-swatch-display" id="turbo-display-swatch">
+                        <span class="turbo-swatch-badge">好室多膜 2年質保</span>
+                    </div>
+                </div>
+
+                <!-- Text HUD -->
+                <div class="turbo-info-hud">
+                    <h3 class="turbo-color-title" id="turbo-display-name">準備就緒</h3>
+                    <div class="turbo-color-eng" id="turbo-display-eng">Click Below to Start</div>
+                    <div class="turbo-color-tags">
+                        <span class="turbo-hud-tag" id="turbo-display-code">色號：待抽取</span>
+                        <span class="turbo-hud-tag" id="turbo-display-series">全車系隨機 ｜ 質保2年</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Action Button -->
+            <div class="turbo-action-box">
+                <button class="btn-turbo-trigger" id="turbo-draw-btn">
+                    <span>開始極速抽選 9 折</span>
+                    <span style="font-size: 1.4rem;">⚡</span>
+                </button>
+                <p class="turbo-hint-text">點擊按鈕啟動隨機極速滾動，定格即產生 9 折施工優惠代碼！</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Case Gallery Section -->
+    <section class="gallery-section" id="gallery-section">
+        <div class="section-header">
+            <div class="section-badge">REAL CAR PORTFOLIO</div>
+            <h2 class="section-title">AX Film 實車施工案例庫</h2>
+            <p class="section-desc">對照 AX Film 官方精選施工作品，涵蓋特斯拉、保時捷、BMW、賓士等全車系真實改色效果。</p>
+        </div>
+
+        <div class="gallery-toolbar">
+            <div class="search-input-wrap">
+                <span class="search-icon">🔍</span>
+                <input type="text" class="search-input" id="gallery-search-input" placeholder="搜尋車型或膜色（例如：Model 3, 綠變紫, 冰川藍, M4...）">
+            </div>
+            <div class="cat-pills-row" id="gallery-brand-filters">
+                <!-- Brand filter buttons -->
+            </div>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem;">
+            <span id="gallery-count-badge" style="color: var(--text-muted); font-size: 0.9rem; font-weight: 600;">載入中...</span>
+            <span style="color: var(--orange-primary); font-size: 0.88rem; font-weight: 700;">點擊任一卡片可放大查看實車與膜色詳情</span>
+        </div>
+
+        <div class="gallery-grid" id="gallery-grid">
+            <!-- Dynamically populated from 180 AX Film cases -->
+        </div>
+
+        <div class="load-more-wrap">
+            <button class="btn-load-more" id="gallery-load-more" onclick="window.caseGallery.loadMore()">載入更多施工案例</button>
+        </div>
+    </section>
+
+    <!-- Event Rules & FAQ Section -->
+    <section class="rules-section" id="rules-section">
+        <div class="section-header">
+            <div class="section-badge">TERMS &amp; CONDITIONS</div>
+            <h2 class="section-title">活動細則與施工須知</h2>
+            <p class="section-desc">請詳細閱讀本次 9 折抽色活動條款，保障您的優惠權益。</p>
+        </div>
+
+        <div class="rules-card">
+            <ul class="rule-list">
+                <li class="rule-item">
+                    <span class="rule-num">1</span>
+                    <div class="rule-content">
+                        <h4>中獎顏色專屬 9 折施工優惠</h4>
+                        <p>車主透過本活動網頁抽選到之特定改色膜顏色，凡指定該顏色進行全車施工，即可享有施工總價 9 折優惠。</p>
+                    </div>
+                </li>
+                <li class="rule-item">
+                    <span class="rule-num">2</span>
+                    <div class="rule-content">
+                        <h4>單一優惠不得併用原則</h4>
+                        <p>本活動之 9 折優惠券為獨立限定禮遇，<strong>不得與本店其他促銷折扣、特惠套裝、老客戶優惠或折價券合併使用</strong>。</p>
+                    </div>
+                </li>
+                <li class="rule-item">
+                    <span class="rule-num">3</span>
+                    <div class="rule-content">
+                        <h4>憑證代碼核銷與有效期限</h4>
+                        <p>每次抽色成功將產生專屬憑證代碼（例如：HSDM90-XXXX-XXXX），請於中獎後 14 天內截圖保存或至好室多膜官方 LINE 預約登記排程，逾期無效。</p>
+                    </div>
+                </li>
+                <li class="rule-item">
+                    <span class="rule-num">4</span>
+                    <div class="rule-content">
+                        <h4>AX Film 原廠 2 年電子質保</h4>
+                        <p>全車系膜料均為 AX Film 原廠正品，施工完成後享有官方 2 年電子保固（防開裂、防起泡、防脫膠），專業無塵施工品質把關。</p>
+                    </div>
+                </li>
+                <li class="rule-item">
+                    <span class="rule-num">5</span>
+                    <div class="rule-content">
+                        <h4>施工車型預約評估</h4>
+                        <p>施工報價依車型尺寸與現車漆面狀況評估，建議於出發施工前聯繫好室多膜技師確認膜料現貨庫存及進廠施工排期。</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <div class="brand-logo" style="margin-bottom: 0.85rem;">
+                    <img src="assets/logo.png" alt="好室多膜" class="brand-logo-img">
+                    <div class="brand-text-group">
+                        <span class="brand-title">好室多膜</span>
+                        <span class="brand-sub">HOUSE OF WRAPS</span>
+                    </div>
+                </div>
+                <p class="footer-desc">
+                    好室多膜 HOUSE OF WRAPS 專業車身改色膜工藝，嚴選 AX Film 官方原廠膜料，提供 PET / TPU 超亮、啞光、液態金屬及漸變幻彩等上百種極致色澤，守護原漆、綻放獨特品味。
+                </p>
+            </div>
+
+            <div class="footer-links-col">
+                <h5>活動導航</h5>
+                <ul>
+                    <li><a href="#lottery-section">極速抽色 (9折)</a></li>
+                    <li><a href="#gallery-section">AX 作品案例庫</a></li>
+                    <li><a href="#rules-section">活動細則條款</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-links-col">
+                <h5>熱門車系</h5>
+                <ul>
+                    <li><a href="#gallery-section" onclick="window.caseGallery.setBrand('Tesla 特斯拉')">Tesla 特斯拉</a></li>
+                    <li><a href="#gallery-section" onclick="window.caseGallery.setBrand('保時捷')">Porsche 保時捷</a></li>
+                    <li><a href="#gallery-section" onclick="window.caseGallery.setBrand('BMW 寶馬')">BMW 寶馬</a></li>
+                    <li><a href="#gallery-section" onclick="window.caseGallery.setBrand('Mercedes 賓士')">Mercedes 賓士</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-links-col">
+                <h5>官方資源與諮詢</h5>
+                <ul>
+                    <li><a href="#lottery-section">極速抽色享 9 折</a></li>
+                    <li><a href="https://www.axfilm.com" target="_blank" rel="noopener">AX Film 官網 ↗</a></li>
+                    <li><a href="https://www.axfilm.com/index/index/lists.html?tid=4" target="_blank" rel="noopener">官方案例圖庫 ↗</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>© 2026 好室多膜 HOUSE OF WRAPS × AX Film. 本活動中獎顏色享 9 折施工優惠（不得與其他折價活動並用）。All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Winning Prize Modal -->
+    <div class="modal-overlay" id="prize-modal">
+        <div class="prize-modal-card">
+            <button class="modal-close-btn" onclick="window.lotterySystem.closePrizeModal()">&times;</button>
+            
+            <div class="prize-header">
+                <span class="prize-badge">🎉 恭喜中獎・專屬 9 折施工禮遇</span>
+                <h2 class="prize-main-title">抽中命定改色膜！</h2>
+            </div>
+
+            <!-- Swatch & Details -->
+            <div class="prize-showcase-row">
+                <div class="prize-swatch-large" id="modal-color-swatch"></div>
+                <div class="prize-info-col">
+                    <h3 id="modal-color-name">PET高亮櫻花粉</h3>
+                    <div class="prize-eng" id="modal-color-eng">Ultra Gloss Sakura Pink</div>
+                    <div class="prize-meta-tags">
+                        <span class="prize-meta-tag">編號：<strong id="modal-color-code">E-AD1211</strong></span>
+                        <span class="prize-meta-tag" id="modal-color-series">1號色卡 ｜ E系列</span>
+                        <span class="prize-meta-tag" id="modal-color-finish">高光超亮質感</span>
+                        <span class="prize-meta-tag">規格：<span id="modal-color-spec">1.524 x 16.8米</span></span>
+                        <span class="prize-meta-tag" style="color: var(--orange-primary); font-weight: 800;">★ 質保 2 年</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Matching AX Film Real Car Case -->
+            <div class="prize-case-box" id="modal-case-box">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <span style="font-size: 0.88rem; font-weight: 800; color: var(--orange-primary);">📸 實裝效果參考 (AX Film 官方案例)</span>
+                    <span id="modal-case-title" style="font-size: 0.82rem; color: var(--text-dim);"></span>
+                </div>
+                <img id="modal-case-img" class="case-preview-thumb" src="" alt="改色膜實裝案例"/>
+            </div>
+
+            <!-- Voucher Ticket -->
+            <div class="voucher-ticket-box">
+                <div class="voucher-ticket-label">🎟️ 好室多膜 9 折施工優惠憑證代碼</div>
+                <div class="voucher-code-display" id="modal-voucher-code">HSDM90-XXXX-XXXX</div>
+                <div class="voucher-terms">
+                    ※ 憑此券指定抽選顏色到店施工享 9 折（不得與其他折價活動並用） ｜ 預約截止：<span id="modal-voucher-expiry">2026/10/10</span>
+                </div>
+            </div>
+
+            <!-- Actions -->
+            <div class="voucher-actions">
+                <button class="btn-voucher-action" onclick="window.couponManager.copyVoucherCode()">
+                    <span>📋 複製代碼</span>
+                </button>
+                <button class="btn-voucher-action" onclick="window.couponManager.downloadVoucherImage()">
+                    <span>📥 保存/下載憑證圖</span>
+                </button>
+            </div>
+
+            <a href="#" class="btn-booking-line" id="modal-line-btn" target="_blank" rel="noopener">
+                <span>💬 立即預約好室多膜施工（開啟 LINE 送出代碼）</span>
+                <span>↗</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Case Detail Modal -->
+    <div class="modal-overlay" id="case-modal">
+        <div class="prize-modal-card" style="max-width: 600px;">
+            <button class="modal-close-btn" onclick="window.caseGallery.closeModal()">&times;</button>
+            <div class="prize-header">
+                <span class="prize-badge" id="case-modal-brand">Tesla 特斯拉</span>
+                <h2 class="prize-main-title" id="case-modal-car" style="font-size: 1.6rem; margin-top: 0.4rem;"></h2>
+                <div class="case-color-row" style="justify-content: center; margin-top: 0.5rem;">
+                    <span class="color-dot"></span>
+                    <span class="case-color" id="case-modal-color" style="font-size: 1.15rem;"></span>
+                </div>
+            </div>
+
+            <div style="margin: 1.25rem 0;">
+                <img id="case-modal-img" src="" alt="案例大圖" style="width: 100%; border-radius: var(--radius-md); box-shadow: 0 10px 30px rgba(0,0,0,0.12);"/>
+            </div>
+
+            <div style="display: flex; gap: 0.75rem; margin-top: 1.5rem;">
+                <button class="btn-turbo-trigger" id="case-modal-apply-btn" style="flex: 1; padding: 0.75rem 1rem; font-size: 1rem;">
+                    立即去抽 9 折 🎯
+                </button>
+                <a id="case-modal-source" href="#" target="_blank" rel="noopener" class="btn-voucher-action" style="flex: 1;">
+                    AX 官網原圖 ↗
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Floating Draw FAB on mobile -->
+    <button class="floating-fab" id="floating-draw-fab">
+        <span>⚡ 抽 9 折</span>
+    </button>
+
+    <!-- JavaScript modules -->
+    <script src="js/data.js"></script>
+    <script src="js/audio.js"></script>
+    <script src="js/confetti.js"></script>
+    <script src="js/coupon.js"></script>
+    <script src="js/lottery.js"></script>
+    <script src="js/gallery.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
