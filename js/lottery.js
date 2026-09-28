@@ -138,8 +138,8 @@ class TurboLottery {
         document.getElementById('modal-color-name').textContent = item.colorName;
         document.getElementById('modal-color-eng').textContent = item.englishName;
         document.getElementById('modal-color-code').textContent = item.code;
-        document.getElementById('modal-color-series').textContent = `${item.book} ｜ ${item.series}`;
-        document.getElementById('modal-color-spec').textContent = item.spec || '1.524 x 16.8米';
+        const specElem = document.getElementById('modal-color-spec');
+        if (specElem) specElem.textContent = item.spec || '1.524 x 16.8米';
         document.getElementById('modal-color-finish').textContent = item.finish;
         const vCode = document.getElementById('modal-voucher-code');
         if (vCode) vCode.textContent = voucher.code;
