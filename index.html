@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>好室多膜 house wrapper ｜ 車主改色膜極速抽色享 9 折優惠</title>
     <meta name="description" content="好室多膜車主改色膜極速隨機抽色活動！一鍵抽取全庫 463 款 AX Film 原廠膜色，指定抽選中獎顏色到店施工即享 9 折限時禮遇（不得與其他折價活動並用）。">
-    <link rel="stylesheet" href="css/style.css?v=20260928_v8">
+    <link rel="stylesheet" href="css/style.css?v=20260928_v9">
 </head>
 <body>
 
@@ -308,6 +308,60 @@
         </div>
     </div>
 
+    <!-- LINE Friend Unlock Gate Modal -->
+    <div class="modal-overlay" id="line-lock-modal">
+        <div class="prize-modal-card line-lock-card" style="max-width: 520px; text-align: center;">
+            <button class="modal-close-btn" onclick="window.lotterySystem.closeLineLockModal()">&times;</button>
+            
+            <div class="line-lock-header">
+                <div class="line-lock-badge">
+                    <span>💬 好室多膜 LINE 官方好友限定</span>
+                </div>
+                <div class="line-lock-icon-wrap">
+                    <span class="lock-shield-icon">🔒</span>
+                </div>
+                <h2 class="line-lock-title">解鎖 9 折極速抽色資格</h2>
+                <p class="line-lock-sub">
+                    本活動為 <strong>好室多膜 LINE 官方好友限定</strong> 專屬禮遇！請先加入官方 LINE 好友，即可解鎖 463 款全色系隨機抽取 9 折優惠！
+                </p>
+            </div>
+
+            <!-- Two-step guide -->
+            <div class="line-lock-steps">
+                <div class="line-lock-step">
+                    <span class="step-num">1</span>
+                    <div class="step-text">
+                        <strong>點擊加入好室多膜 LINE 官方帳號</strong>
+                        <span>官方 LINE ID：<code>@housewrapper</code></span>
+                    </div>
+                </div>
+                <div class="line-lock-step">
+                    <span class="step-num">2</span>
+                    <div class="step-text">
+                        <strong>加入好友後點擊下方「立即解鎖」</strong>
+                        <span>系統將立即為您啟動 9 折極速隨機抽色</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Action buttons -->
+            <div class="line-lock-actions">
+                <a href="https://line.me/R/ti/p/@housewrapper" target="_blank" rel="noopener" class="btn-line-add" id="btn-line-add-friend" onclick="window.lotterySystem.markLineClicked()">
+                    <span style="font-size: 1.25rem;">💬</span>
+                    <span>1. 前往加入 LINE 好友 (@housewrapper) ↗</span>
+                </a>
+
+                <button class="btn-line-unlock" id="btn-line-confirm-unlock" onclick="window.lotterySystem.confirmLineUnlock()">
+                    <span>2. 我已加入好友，立即開始抽色 ⚡</span>
+                </button>
+            </div>
+
+            <div class="line-lock-footer-tip">
+                ※ 加好友後永久解鎖，可無限次隨機抽色，抽中顏色施工享 9 折（不得與其他折價活動並用）
+            </div>
+        </div>
+    </div>
+
     <!-- Case Detail Modal -->
     <div class="modal-overlay" id="case-modal">
         <div class="prize-modal-card" style="max-width: 600px;">
@@ -342,12 +396,12 @@
     </button>
 
     <!-- JavaScript modules -->
-    <script src="js/data.js?v=20260928_v8"></script>
-    <script src="js/audio.js?v=20260928_v8"></script>
-    <script src="js/confetti.js?v=20260928_v8"></script>
-    <script src="js/coupon.js?v=20260928_v8"></script>
-    <script src="js/lottery.js?v=20260928_v8"></script>
-    <script src="js/gallery.js?v=20260928_v8"></script>
-    <script src="js/app.js?v=20260928_v8"></script>
+    <script src="js/data.js?v=20260928_v9"></script>
+    <script src="js/audio.js?v=20260928_v9"></script>
+    <script src="js/confetti.js?v=20260928_v9"></script>
+    <script src="js/coupon.js?v=20260928_v9"></script>
+    <script src="js/lottery.js?v=20260928_v9"></script>
+    <script src="js/gallery.js?v=20260928_v9"></script>
+    <script src="js/app.js?v=20260928_v9"></script>
 </body>
 </html>

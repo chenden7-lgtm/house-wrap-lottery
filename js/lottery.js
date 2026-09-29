@@ -51,7 +51,56 @@ class TurboLottery {
         if (seriesElem) seriesElem.textContent = `${item.series} ｜ 質保2年`;
     }
 
+    isLineUnlocked() {
+        return localStorage.getItem('hw_line_unlocked') === 'true';
+    }
+
+    openLineLockModal() {
+        const modal = document.getElementById('line-lock-modal');
+        if (modal) {
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+    }
+
+    closeLineLockModal() {
+        const modal = document.getElementById('line-lock-modal');
+        if (modal) {
+            modal.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+    }
+
+    markLineClicked() {
+        const btn = document.getElementById('btn-line-add-friend');
+        if (btn) {
+            btn.innerHTML = `<span style="font-size: 1.25rem;">✅</span><span>已開啟 LINE 加好友 ↗</span>`;
+            btn.style.background = '#05a346';
+        }
+        const unlockBtn = document.getElementById('btn-line-confirm-unlock');
+        if (unlockBtn) {
+            unlockBtn.classList.add('highlight-pulse');
+        }
+    }
+
+    confirmLineUnlock() {
+        localStorage.setItem('hw_line_unlocked', 'true');
+        this.closeLineLockModal();
+        if (window.showToast) {
+            window.showToast('🎉 已成功解鎖！正在為您啟動極速抽色...');
+        }
+        setTimeout(() => {
+            this.startDraw();
+        }, 350);
+    }
+
     startDraw() {
+        // LINE Friend Gate Lock
+        if (!this.isLineUnlocked()) {
+            this.openLineLockModal();
+            return;
+        }
+
         if (this.isDrawing) return;
         this.isDrawing = true;
 
